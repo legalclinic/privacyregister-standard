@@ -21,4 +21,4 @@ Iedereen met interesse in privacyrecht moedigen we aan om bij te dragen aan het 
 
 ## Licentie
 
-Door bij te dragen aan dit project, verleen je een wereldwijde, royaltyvrije, doorlopende, onherroepelijke, niet-exclusieve, overdraagbare licentie aan alle gebruikers onder de voorwaarden van de [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/) or later.
+Door bij te dragen aan dit project, verleen je een wereldwijde, royaltyvrije, doorlopende, onherroepelijke, niet-exclusieve, overdraagbare licentie aan alle gebruikers onder de voorwaarden van de [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/) of recenter.
