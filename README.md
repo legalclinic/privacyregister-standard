@@ -9,7 +9,7 @@ De documentatieplicht uit artikel 30 AVG inventariseren, uitvragen en ontwikkele
 
 ## Planning
 | Fase  | Beschrijving | Afronding |
-| ------------- | ------------- | . |
+| ------------- | ------------- | ------------- |
 | Juridische inventarisatie	  | In deze fase worden de specificaties uitgeschreven van de openstandaard voor privacyregisters in een code-repository. We leggen de specificatie voor aan potentiele partners en organiseren een kick-off met stakeholders waarin we het plan presenteren. | Herfst 2017 |
 | Organisatorische implementatie  | Uitwerken van een manier om organisaties het makkelijkste informatie te laten verstrekken om te voldoen om de essentieële verplichtingen boven tafel te krijgen bij organisaties. Bijvoorbeeld met wat voor een vragenlijst om te kunnen bepalen hoe we de benodigde informatie het beste bij organisaties kunnen uitvragen.  | Winter 2017/2018 |
 | Technische ontwikkeling  | We zetten daarna de use-case door naar het technisch team om te bespreken hoe de uitwerking omgezet kan worden naar een database-structuur.  | Lente 2018 |
