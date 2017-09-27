@@ -24,8 +24,8 @@ Ten behoeve van de uiteenzetting van het juridisch kader en de structuur van art
 		- Verwerkingsverantwoordelijke
 		- Verwerker
 3. Welke gegevens moet het register bevatten?
-		- Ingevuld door verwerkingsverantwoordelijke
-		- Ingevuld door verwerker
+	- Ingevuld door verwerkingsverantwoordelijke
+	- Ingevuld door verwerker
 
 ## Mindmap
 
