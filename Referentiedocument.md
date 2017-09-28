@@ -1,6 +1,7 @@
 # Referentiedocument
 
 Ten behoeve van de juridische inventarisatie wordt op dit moment gewerkt aan een referentiedocument. Daarin zal het volgende zijn opgenomen:
+
 1. Een uiteenzetting van het **juridisch kader** en de structuur van artikel 30 AVG, gelet op onder meer:
 	- Overwegingen bij de verordening
 	- Literatuur
@@ -10,9 +11,14 @@ Ten behoeve van de juridische inventarisatie wordt op dit moment gewerkt aan een
 
 ## Juridisch kader
 Ten behoeve van de uiteenzetting van het juridisch kader en de structuur van artikel 30 AVG zullen onder meer de volgende vragen en begrippen uitgewerkt worden:
-1. Algemene informatie AVG (kort)
-	- Totstandkoming
-	- Doelstellingen
+
+1. De Algemene Verordening Gegevensbescherming (AVG)
+	1. Totstandkoming
+	- Gebasseerd op richtlijn 95/46 
+	Na een langdurig totstandkomingsproces is de AVG op 24 mei 2016 in werking getreden. Na een overgangsperiode van twee jaar zal de verordening vanaf 25 mei 2018 van toepassing zijn.
+	2. Doelstelling
+	Met de invoering van de verordening wordt de bescherming van persoonsgegevens verder geharmoniseerd. Uit de overwegingen bij de verordening komt naar voren dat de Europese wetgever met de verordening de volgende doelen nastreeft.
+
 2. Artikel 30 AVG
 	- Wat is de ratio van artikel 30 AVG?
 		- Hoe past artikel 30 in de doelstellingen van de AVG?
