@@ -14,24 +14,38 @@ Ten behoeve van de uiteenzetting van het juridisch kader en de structuur van art
 
 1. De Algemene Verordening Gegevensbescherming (AVG)
 	1. Totstandkoming
-	- Gebasseerd op richtlijn 95/46 
-	Na een langdurig totstandkomingsproces is de AVG op 24 mei 2016 in werking getreden. Na een overgangsperiode van twee jaar zal de verordening vanaf 25 mei 2018 van toepassing zijn.
+		- Gebasseerd op richtlijn 95/46
+		- Verordening vanaf 25 mei 2018 van toepassing
 	2. Doelstelling
-	Met de invoering van de verordening wordt de bescherming van persoonsgegevens verder geharmoniseerd. Uit de overwegingen bij de verordening komt naar voren dat de Europese wetgever met de verordening de volgende doelen nastreeft.
+		- Bescherming van persoonsgegevens als grondrecht (1-4)
+		- Toegenomen belang en (grensoverschrijdende) uitwisseling persoonsgegevens vraagt om grotere bescherming en strengere handhaving (5-9)
+		- Bieden hoog beschermingsniveau en opheffen belemmeringen voor het verkeer van persoonsgegevens binnen de Unie.
 
 2. Artikel 30 AVG
+	Op grond van artikel 30 AVG zijn organisaties verplicht een register van de verwerkingsactiviteiten bij te houden.
 	- Wat is de ratio van artikel 30 AVG?
 		- Hoe past artikel 30 in de doelstellingen van de AVG?
 	- Toepassingsgebied artikel 30 AVG
 		- Welke organisaties zijn verplicht aan de documentatieplicht te voldoen?
 	- Begrippenkader
-		- Persoonsgegeven
-		- Verwerking(sactiviteit)
-		- Verwerkingsverantwoordelijke
-		- Verwerker
+		- **Persoonsgegeven (artikel 4 sub 1 AVG)**
+			- Zie overweging 26
+		- **Verwerking(sactiviteit)**
+			- Grondslag, zie overweging 40 
+		- **Verwerkingsverantwoordelijke (artikel 4 sub 7 AVG)**
+
+			*Een natuurlijke persoon of rechtspersoon, een overheidsinstantie, een dienst of een ander orgaan die/dat, alleen of samen met anderen, het doel van en de middelen voor de verwerking van persoonsgegevens vaststelt*
+
+		- **Verwerker (artikel 4 sub 8)**
+
 3. Welke gegevens moet het register bevatten?
-	- Ingevuld door verwerkingsverantwoordelijke
+	- Ingevuld door verwerkingsverantwoordelijke.
+		- Lid 1 van artikel 30 AVG bepaalt welke gegevens het register moet bevatten wanneer deze is opgesteld door een verwerkingsverantwoordelijke.
 	- Ingevuld door verwerker
+		- Lid 2 van artikel 30 AVG bepaalt welke gegevens het register moet bevatten wanneer deze is opgesteld door een verwerkingsverantwoordelijke.
+
+4. De vorm van het register (lid 3)
+
 
 ## Mindmap
 
