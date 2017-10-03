@@ -14,12 +14,12 @@ Ten behoeve van de uiteenzetting van het juridisch kader en de structuur van art
 
 1. De Algemene Verordening Gegevensbescherming (AVG)
 	1. Totstandkoming
-		- Gebasseerd op richtlijn 95/46
-		- Verordening vanaf 25 mei 2018 van toepassing
+		- De AVG is op 25 mei 2016 in werking getreden. Na een implementatieperiode van twee jaar zal de Verordening met ingang van 25 mei 2018 van toepassing zijn. Gebasseerd op richtlijn 95/46
 	2. Doelstelling
-		- Bescherming van persoonsgegevens als grondrecht (1-4)
-		- Toegenomen belang en (grensoverschrijdende) uitwisseling persoonsgegevens vraagt om grotere bescherming en strengere handhaving (5-9)
-		- Bieden hoog beschermingsniveau en opheffen belemmeringen voor het verkeer van persoonsgegevens binnen de Unie.
+		- De AVG werkt als verordening rechtstreeks door in alle lidstaten. In de overwegingen bij de verordening wordt door de Europese wetgever uiteengezet om welke redenen en met welk doel de AVG is ontworpen.
+			- Bescherming van persoonsgegevens als grondrecht (1-4)
+			- Toegenomen belang en (grensoverschrijdende) uitwisseling persoonsgegevens vraagt om grotere bescherming en strengere handhaving (5-9)
+			- Bieden hoog beschermingsniveau en opheffen belemmeringen voor het verkeer van persoonsgegevens binnen de Unie.
 
 2. Artikel 30 AVG
 	Op grond van artikel 30 AVG zijn organisaties verplicht een register van de verwerkingsactiviteiten bij te houden.
@@ -27,6 +27,7 @@ Ten behoeve van de uiteenzetting van het juridisch kader en de structuur van art
 		- Hoe past artikel 30 in de doelstellingen van de AVG?
 	- Toepassingsgebied artikel 30 AVG
 		- Welke organisaties zijn verplicht aan de documentatieplicht te voldoen?
+			- Niet alle organisaties zijn verplicht een register bij te houden. De Verordening kent een uitzonderingsbepaling in lid 5 van artikel 30 AVG
 	- Begrippenkader
 		- **Persoonsgegeven (artikel 4 sub 1 AVG)**
 			- Zie overweging 26
