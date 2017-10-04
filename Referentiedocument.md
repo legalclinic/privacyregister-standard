@@ -57,4 +57,5 @@ Ten behoeve van de uiteenzetting van het juridisch kader en de structuur van art
 - [VERORDENING (EU) 2016/679](https://autoriteitpersoonsgegevens.nl/sites/default/files/atoms/files/verordening_2016_-_679_definitief.pdf)
 - B.W. Schermer, 'Van meldplicht naar registerplicht: de registratie van verwerkingen onder de AVG', *Computerrecht* 2017/151
 - C.C.M Kroeks-de Raaij, R.J.J. Westerdijk & G.J. Zwenne 'De Algemene Verordening Gegevensbescherming', *IR* 2016/2
+- A. Engelfriet, L. Meij & P. Kager, 'De Algemene Verordening Gegevensbescherming. Artikelsgewijs commentaar', Amsterdam : Ius Mentis 2017
 - [Aanbeveling Belgische Commissie voor de bescherming van de persoonlijke levenssfeer](https://www.privacycommission.be/sites/privacycommission/files/documents/aanbeveling_06_2017_0.pdf)
