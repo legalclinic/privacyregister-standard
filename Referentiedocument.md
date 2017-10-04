@@ -76,6 +76,9 @@ Ten behoeve van de uiteenzetting van het juridisch kader en de structuur van art
 		- Lid 2 van artikel 30 AVG bepaalt welke gegevens het register moet bevatten wanneer deze is opgesteld door een verwerkingsverantwoordelijke.
 
 4. De vorm van het register (lid 3)
+	- Het verwerkingsregister moet in schriftelijke vorm, waaronder elektronische vorm, worden opgesteld
+
+		- Link naar organisatorische implementatie
 
 
 ## Mindmap
