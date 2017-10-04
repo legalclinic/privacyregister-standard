@@ -12,14 +12,24 @@ Ten behoeve van de juridische inventarisatie wordt op dit moment gewerkt aan een
 ## Juridisch kader
 Ten behoeve van de uiteenzetting van het juridisch kader en de structuur van artikel 30 AVG zullen onder meer de volgende vragen en begrippen uitgewerkt worden:
 
-1. De Algemene Verordening Gegevensbescherming (AVG)
+1. De Algemene Verordening Gegevensbescherming
 	1. Totstandkoming
-		- De AVG is op 25 mei 2016 in werking getreden. Na een implementatieperiode van twee jaar zal de Verordening met ingang van 25 mei 2018 van toepassing zijn. Gebasseerd op richtlijn 95/46
+		- De Algemene Verordening Gegevensbescherming (AVG) is op 25 mei 2016 in werking getreden
+		- De AVG is met ingang van 25 mei 2018 van toepassing. 
+		- De regulering en bescherming van persoonsgegevens was op Europees niveau voorheen geregeld in richtlijn 95/46 EG.
+		- De AVG werkt als verordening rechtstreeks door in alle lidstaten.
 	2. Doelstelling
-		- De AVG werkt als verordening rechtstreeks door in alle lidstaten. In de overwegingen bij de verordening wordt door de Europese wetgever uiteengezet om welke redenen en met welk doel de AVG is ontworpen.
-			- Bescherming van persoonsgegevens als grondrecht (1-4)
-			- Toegenomen belang en (grensoverschrijdende) uitwisseling persoonsgegevens vraagt om grotere bescherming en strengere handhaving (5-9)
-			- Bieden hoog beschermingsniveau en opheffen belemmeringen voor het verkeer van persoonsgegevens binnen de Unie.
+		- De doelstelling van de AVG is terug te vinden in artikel 1 van de verordening.
+
+			- **Artikel 1.1**
+			- *Bij deze verordening worden regels vastgesteld betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van persoonsgegevens.* 
+
+		- Een nadere uitwerking is te vinden in de overwegingen bij de verordening:
+
+			- **Overweging 7**
+			- *Deze ontwikkelingen (globalisering en technologische ontwikkelingen, red.) een krachtig en coherenter kader voor gegevensbescherming in de Unie, dat wordt gesteund door strenge handhaving, omdat zulks van belang is voor het vertrouwen dat nodig is om de digitale economie zich in de hele interne markt te laten ontwikkelen.* 
+
+		- De Europese wetgever benadrukt in overwegingen 1 tot en met 7 dat de verordening een hoog beschermingsniveau beoogt te bieden teneinde het grondrecht op bescherming van persoonsgegevens te waarborgen.
 
 2. Artikel 30 AVG
 	Op grond van artikel 30 AVG zijn organisaties verplicht een register van de verwerkingsactiviteiten bij te houden.
