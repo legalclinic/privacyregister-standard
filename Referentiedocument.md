@@ -35,19 +35,39 @@ Ten behoeve van de uiteenzetting van het juridisch kader en de structuur van art
 	Op grond van artikel 30 AVG zijn organisaties verplicht een register van de verwerkingsactiviteiten bij te houden.
 	- Wat is de ratio van artikel 30 AVG?
 		- Hoe past artikel 30 in de doelstellingen van de AVG?
+			- Accountability
 	- Toepassingsgebied artikel 30 AVG
 		- Welke organisaties zijn verplicht aan de documentatieplicht te voldoen?
 			- Niet alle organisaties zijn verplicht een register bij te houden. De Verordening kent een uitzonderingsbepaling in lid 5 van artikel 30 AVG
 	- Begrippenkader
-		- **Persoonsgegeven (artikel 4 sub 1 AVG)**
-			- Zie overweging 26
+		- **Persoonsgegeven**
+			- In artikel 4 sub 1 van de AVG is de volgende definitie van 'persoonsgegeven' opgenomen:
+
+			- *alle informatie over een geïdentificeerde of identificeerbare natuurlijke persoon („de betrokkene”); als identificeerbaar wordt beschouwd een natuurlijke persoon die direct of indirect kan worden geïdentificeerd, met name aan de hand van een identificator zoals een naam, een identificatienummer, locatiegegevens, een online identificator of van een of meer elementen die kenmerkend zijn voor de fysieke, fysiologische, genetische, psychische, economische, culturele of sociale identiteit van die natuurlijke persoon;* 
+
+			- Verder uitwerken, zie overweging 26
+				- Wat is identificeerbaar
+
 		- **Verwerking(sactiviteit)**
-			- Grondslag, zie overweging 40 
-		- **Verwerkingsverantwoordelijke (artikel 4 sub 7 AVG)**
+			- In artikel 4 sub 2 van de AVG is de volgende definitie van 'verwerking' opgenomen:
+
+			- *een bewerking of een geheel van bewerkingen met betrekking tot persoonsgegevens of een geheel van persoonsgegevens, al dan niet uitgevoerd via geautomatiseerde procedés, zoals het verzamelen, vastleggen, ordenen, structureren, opslaan, bijwerken of wijzigen, opvragen, raadplegen, gebruiken, verstrekken door middel van doorzending, verspreiden of op andere wijze ter beschikking stellen, aligneren of combineren, afschermen, wissen of vernietigen van gegevens* 
+
+			- Verder uitwerken, zie grondslag in overweging 40 
+
+		- **Verwerkingsverantwoordelijke**
+			- In artikel 4 sub 7 van de AVG is de volgende definitie van 'verwerkingsverantwoordelijke' opgenomen:
 
 			*Een natuurlijke persoon of rechtspersoon, een overheidsinstantie, een dienst of een ander orgaan die/dat, alleen of samen met anderen, het doel van en de middelen voor de verwerking van persoonsgegevens vaststelt*
 
-		- **Verwerker (artikel 4 sub 8)**
+			- Verder uitwerken
+
+		- **Verwerker**
+			- In artikel 4 sub 8 van de AVG is de volgende definitie van 'verwerker' opgenomen:
+
+				- *een natuurlijke persoon of rechtspersoon, een overheidsinstantie, een dienst of een ander orgaan die/dat ten behoeve van de verwerkingsverantwoordelijke persoonsgegevens verwerkt* 
+
+			- Verder uitwerken
 
 3. Welke gegevens moet het register bevatten?
 	- Ingevuld door verwerkingsverantwoordelijke.
