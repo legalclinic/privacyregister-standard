@@ -27,15 +27,16 @@ Ten behoeve van de uiteenzetting van het juridisch kader en de structuur van art
 		- Een nadere uitwerking is te vinden in de overwegingen bij de verordening:
 
 			- **Overweging 7**
-			- *Deze ontwikkelingen (globalisering en technologische ontwikkelingen, red.) een krachtig en coherenter kader voor gegevensbescherming in de Unie, dat wordt gesteund door strenge handhaving, omdat zulks van belang is voor het vertrouwen dat nodig is om de digitale economie zich in de hele interne markt te laten ontwikkelen.* 
+			- *Deze ontwikkelingen (globalisering en technologische ontwikkelingen, red.) vereisen een krachtig en coherenter kader voor gegevensbescherming in de Unie, dat wordt gesteund door strenge handhaving, omdat zulks van belang is voor het vertrouwen dat nodig is om de digitale economie zich in de hele interne markt te laten ontwikkelen.* 
 
 		- De Europese wetgever benadrukt in overwegingen 1 tot en met 7 dat de verordening een hoog beschermingsniveau beoogt te bieden teneinde het grondrecht op bescherming van persoonsgegevens te waarborgen.
 
 2. Artikel 30 AVG
-	Op grond van artikel 30 AVG zijn organisaties verplicht een register van de verwerkingsactiviteiten bij te houden.
 	- Wat is de ratio van artikel 30 AVG?
+
 		- Hoe past artikel 30 in de doelstellingen van de AVG?
 			- Accountability
+			- Transparantiebeginsel
 	- Toepassingsgebied artikel 30 AVG
 		- Welke organisaties zijn verplicht aan de documentatieplicht te voldoen?
 			- Niet alle organisaties zijn verplicht een register bij te houden. De Verordening kent een uitzonderingsbepaling in lid 5 van artikel 30 AVG
@@ -70,9 +71,26 @@ Ten behoeve van de uiteenzetting van het juridisch kader en de structuur van art
 			- Verder uitwerken
 
 3. Welke gegevens moet het register bevatten?
-	- Ingevuld door verwerkingsverantwoordelijke.
-		- Lid 1 van artikel 30 AVG bepaalt welke gegevens het register moet bevatten wanneer deze is opgesteld door een verwerkingsverantwoordelijke.
-	- Ingevuld door verwerker
+	1. Ingevuld door verwerkingsverantwoordelijke.
+		- Lid 1 van artikel 30 AVG bepaalt dat het register opgesteld door een verwerkingsverantwoordelijke de volgende gegevens moet bevatten:
+
+			- a) Gegevens verwerkingsverantwoordelijke
+
+			- b) de verwerkingsdoeleinden
+
+				- De verwerkingsverantwoordelijke dient per verwerking het doeleinde / de doeleinden daarvan vermelden. Het doeleinde moet welbepaald en uitdrukkelijk omschreven zijn.
+				- Voorbeelden van verwerkingsdoeleinden?
+
+			- c) een beschrijving van de categorieën van betrokkenen en van de categorieën van persoonsgegevens
+
+			- d) de (voorgenomen) categorieën ontvangers;
+
+			- e) een vermelding van een verstrekking van persoonsgegevens aan een derde land of een internationale organisatie;
+
+			- f) de (voorgenomen) bewaartermijnen en
+
+			- g) een algemene beschrijving van de beveiligingsmaatregelen.
+	2. Ingevuld door verwerker
 		- Lid 2 van artikel 30 AVG bepaalt welke gegevens het register moet bevatten wanneer deze is opgesteld door een verwerkingsverantwoordelijke.
 
 4. De vorm van het register (lid 3)
