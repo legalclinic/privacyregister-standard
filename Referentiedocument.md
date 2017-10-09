@@ -10,7 +10,6 @@ Ten behoeve van de juridische inventarisatie wordt op dit moment gewerkt aan een
 4. Twee voorbeelden van registraties van verwerkingsactiviteiten(**use cases**)
 
 ## Juridisch kader
-Ten behoeve van de uiteenzetting van het juridisch kader en de structuur van artikel 30 AVG zullen onder meer de volgende vragen en begrippen uitgewerkt worden:
 
 1. De Algemene Verordening Gegevensbescherming
 	1. Totstandkoming
@@ -29,17 +28,15 @@ Ten behoeve van de uiteenzetting van het juridisch kader en de structuur van art
 			- **Overweging 7**
 			- *Deze ontwikkelingen (globalisering en technologische ontwikkelingen, red.) vereisen een krachtig en coherenter kader voor gegevensbescherming in de Unie, dat wordt gesteund door strenge handhaving, omdat zulks van belang is voor het vertrouwen dat nodig is om de digitale economie zich in de hele interne markt te laten ontwikkelen.* 
 
-		- De Europese wetgever benadrukt in overwegingen 1 tot en met 7 dat de verordening een hoog beschermingsniveau beoogt te bieden teneinde het grondrecht op bescherming van persoonsgegevens te waarborgen.
+		- De Europese wetgever benadrukt in overwegingen 1 tot en met 7 dat de verordening verder een hoog beschermingsniveau beoogt te bieden teneinde het grondrecht op bescherming van persoonsgegevens te waarborgen.
 
 2. Artikel 30 AVG
-	- Wat is de ratio van artikel 30 AVG?
+	- Ratio
+		- In artikel 5 van de AVG is een aantal algemene beginselen van behoorlijke gegevensverwerking opgesomd. Artikel 30 dient in het licht van deze beginselen gelezen te worden.
+			1. Met de brede registerplicht wordt beoogd de transparantie omtrent de verwerking van persoonsgegevens te vergroten.
+			2. Verantwoordingsplicht
+			3. Basis overige compliance eisen.
 
-		- Hoe past artikel 30 in de doelstellingen van de AVG?
-			- Accountability
-			- Transparantiebeginsel
-	- Toepassingsgebied artikel 30 AVG
-		- Welke organisaties zijn verplicht aan de documentatieplicht te voldoen?
-			- Niet alle organisaties zijn verplicht een register bij te houden. De Verordening kent een uitzonderingsbepaling in lid 5 van artikel 30 AVG
 	- Begrippenkader
 		- **Persoonsgegeven**
 			- In artikel 4 sub 1 van de AVG is de volgende definitie van 'persoonsgegeven' opgenomen:
@@ -61,24 +58,30 @@ Ten behoeve van de uiteenzetting van het juridisch kader en de structuur van art
 
 			*Een natuurlijke persoon of rechtspersoon, een overheidsinstantie, een dienst of een ander orgaan die/dat, alleen of samen met anderen, het doel van en de middelen voor de verwerking van persoonsgegevens vaststelt*
 
-			- Verder uitwerken
-
 		- **Verwerker**
 			- In artikel 4 sub 8 van de AVG is de volgende definitie van 'verwerker' opgenomen:
 
 				- *een natuurlijke persoon of rechtspersoon, een overheidsinstantie, een dienst of een ander orgaan die/dat ten behoeve van de verwerkingsverantwoordelijke persoonsgegevens verwerkt* 
 
-			- Verder uitwerken
-
 3. Welke gegevens moet het register bevatten?
 	1. Ingevuld door verwerkingsverantwoordelijke.
 		- Lid 1 van artikel 30 AVG bepaalt dat het register opgesteld door een verwerkingsverantwoordelijke de volgende gegevens moet bevatten:
 
-			- a) Gegevens verwerkingsverantwoordelijke
+			- a) Naam en contactgegevens van de verwerkingsverantwoordelijke
+
+				- Welke gegevens:
+					- Naam
+					- Adres
+					- Telefoon
+					- E-mail
+					- KVK-nummer (?)
+
+				- Wanneer van toepassing ook de gegevens van de vertegenwoordiger en van de functionaris van gegevensbescherming
 
 			- b) de verwerkingsdoeleinden
 
-				- De verwerkingsverantwoordelijke dient per verwerking het doeleinde / de doeleinden daarvan vermelden. Het doeleinde moet welbepaald en uitdrukkelijk omschreven zijn.
+				- De verwerkingsverantwoordelijke dient per verwerking het doeleinde / de doeleinden daarvan vermelden. 
+					- Het doeleinde moet welbepaald en uitdrukkelijk omschreven zijn.
 				- Voorbeelden van verwerkingsdoeleinden?
 
 			- c) een beschrijving van de categorieën van betrokkenen en van de categorieën van persoonsgegevens
@@ -90,14 +93,34 @@ Ten behoeve van de uiteenzetting van het juridisch kader en de structuur van art
 			- f) de (voorgenomen) bewaartermijnen en
 
 			- g) een algemene beschrijving van de beveiligingsmaatregelen.
+				- In artikel 32 lid 1 worden de volgende maatregelen genoemd:
+					- Pseudonimisering en versleuteling van persoonsgegevens
+					- Het vermogen om op permanente basis de vertrouwelijkheid, integriteit, beschikbaarheid en veerkracht van de verwerkingssystemen en -diensten te garanderen
+					- Het vermogen om bij een fysiek of technisch incident de beschikbaarheid van en de toegang tot de persoonsgegevens tijdig te herstellen
+					- Een procedure voor het op gezette tijdstippen testen, beoordelen en evalueren van de doeltreffendheid van de technische en organisatorische maatregelen ter beveiliging van de verwerking.
 	2. Ingevuld door verwerker
-		- Lid 2 van artikel 30 AVG bepaalt welke gegevens het register moet bevatten wanneer deze is opgesteld door een verwerkingsverantwoordelijke.
+		- Lid 2 van artikel 30 AVG bepaalt dat het register opgesteld door een verwerker de volgende gegevens moet bevatten:
+
+			- a) Naam en contactgegevens van de verwerker en van iedere verwerkingsverantwoordelijke voor rekening waarvan de verwerker handelt.
+
+				- Wanneer van toepassing ook de gegevens van de vertegenwoordiger van de verwerkingsverantwoordelijke/verwerker en de gegevens van de functionaris van gegevensbescherming
+
+			- b) Categorieën van verwerkingen die voor rekening van iedere verwerkingsverantwoordelijke zijn uitgevoerd.
+
+			- c) Indien van toepassing, doorgiften van persoonsgegevens aan een derde land of een internationale organisatie, onder vermelding van dat derde land of die internationale organisatie.
+
+			- d) Indien mogelijk, een algemene beschrijving van de technische en organisatorische beveiligingsmaatregelen als bedoeld in artikel 32 lid 1.
 
 4. De vorm van het register (lid 3)
 	- Het verwerkingsregister moet in schriftelijke vorm, waaronder elektronische vorm, worden opgesteld
 
 		- Link naar organisatorische implementatie
 
+5. Toepassingsgebied
+	- In beginsel zijn alle ondernemingen en organisaties verplicht om op grond van lid 1 of lid 2 een register met verwerkingen bij te houden. De in lid 5 opgenomen uitzonderingsbepaling bepaalt dat deze verplichting niet bestaat wanneer een organisatie of onderneming **minder dan 250 personen** in dienst heeft. Dergelijke organisaties en ondernemingen zijn in de volgende gevallen echter toch verplicht een register bij te houden:
+		- Wanneer de verwerking een risico inhoudt voor de rechten en vrijheden van de betrokkenen;
+		- Wanneer de verwerking niet-incidenteel is, of
+		- Wanneer de verwerking bijzondere categorieën van persoonsgegevens of persoonsgegevens in verband met strafrechtelijk veroordelingen en strafbare feiten betreft.
 
 ## Mindmap
 
