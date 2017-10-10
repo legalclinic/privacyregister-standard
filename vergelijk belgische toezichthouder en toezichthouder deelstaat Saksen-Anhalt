@@ -5,6 +5,18 @@ Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the 
 bl -> belgische toezichthouder
 sa -> saksen-anhalt
 
+SA De inhoud en de omvang van het register is sterk afhankelijk van het type verwerkingsverantwoordelijke, de grootte van deze onderneming etc. In de voorspelling is daarom dat in de praktijk het register moet bestaan uit een x-aantal individuele beschrijvingen vanwege de verschillende procedures die door verwerkeringsverantwoordelijken onderling gebezigd zullen worden.
+Hiermee kan het ook aan ondere verplichtingen voldoen:
+- vaststellen van verwerkingsdoeleinden (art. 5.1.b)
+- accountability en documentatie (art. 5.2 en art. 24)
+- passende maatregelen voor beschikbaar stellen informatie (art. 12.1)
+- art. 24.1 en art. 32
+- art. 35
+- art. 39
+-> vraag is in hoeverre wij deze ruimte kunnen bieden. Het lijkt erop dat voor het voldoen aan deze vereisten een zekere kennis van de wet vereist is.
+
+
+
 BLVerwerkingsverantwoordelijke: Het is een autonoom begrip en houdt bijvoorbeeld niet in dat de entiteit die de doeleinden en de middelen bepaalt, rechtspersoonlijkheid bezit (tijdelijke vennootschap, feitelijke vereniging,...).4
 
 BLUit de tekst wordt begrepen dat zowel de verwerkingsverantwoordelijke als zijn vertegenwoordiger, mocht er een zijn, een register van de verwerkingen moeten houden (in de Franse versie wordt overigens het meervoud gebruikt "tiennent"). In het geval de verwerkingsverantwoordelijke niet beschikt over een vestiging op het grondgebied van de Unie maar onderworpen is aan de toepassing van de AVG5, moet hij in toepassing van artikel 27, inderdaad een vertegenwoordiger aanduiden.
@@ -15,8 +27,10 @@ BLDeze verplichting die in de loop van de AVG-onderhandelingen ook "interne docu
  De risico gerelateerde aanpak die blijkt uit een reeks verplichtingen van de AVG gaat niet goed samen met dit soort uitzonderingen. Het zou op zijn minst incoherent zijn om te stellen dat de grootte van een verwerkingsverantwoordelijke of verwerker er altijd toe leidt dat er geen of weinig risico's zijn voor de rechten en vrijheden van het individu.
 	Wij maken geen onderscheid in aantal werknemers, aangezien aan de uitzonderingsgronden (met name ‘incidentele’ verwerkingen) in de meeste gevallen niet aan voldaan zal worden waardoor alsnog een registerplicht bestaat. Daar komt bij dat het gebruik maken van deze service inherent aangeeft dat de verwerkingsverantwoordelijke een verwerkingsregister wilt aanleggen.
 
-Maar als het gaat om KMO en rekening houdend met de beperkte draagwijdte van de uitzondering op de verplichte invoering van een Register, is de CBPL er niet tegen gekant dat dit Register zich beperkt tot de niet incidentele verwerkingen. De incidentele verwerkingen moeten daarin niet worden opgenomen.
-	Wat vinden wij hier van?
+BLMaar als het gaat om KMO en rekening houdend met de beperkte draagwijdte van de uitzondering op de verplichte invoering van een Register, is de CBPL er niet tegen gekant dat dit Register zich beperkt tot de niet incidentele verwerkingen. De incidentele verwerkingen moeten daarin niet worden opgenomen.
+
+SA het advies is om alle aanpassingen bij te houden. dus nieuwe entries. hiermee wordt voldaan aan het accountability principe (art. 5.2)
+	Voor ons is het dus prima om ook incidentele verwerkingen op te nemen. dit is uiteraard verantwoordelijkheid van de gebruiker, maar door gebruik te maken van blockchain kan aan beide adviezen worden voldaan.
 
 BLRegister is een accountability-instrument -> Dit Register is daarentegen niet bestemd voor de betrokkenen noch voor het publiek in het algemeen (zie infra)
 	Ik zou willen stellen dat deze transparantie juist wel het uiteindelijke doel is van het project.
