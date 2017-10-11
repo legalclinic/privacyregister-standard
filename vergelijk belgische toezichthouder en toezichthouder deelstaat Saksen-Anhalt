@@ -91,11 +91,19 @@ Deze toegangsgerechtigden moeten worden aangeduid zonder naam, maar bijvoorbeeld
 het kan echter handig zijn om een filiaal met toegang tot de gegevens aan te duiden met een aantal 'access points' of toegangsgerechtigden met betrekking tot een bepaald moment (dagdatum)
 -> rol - of functieomschrijving zou mogelijk kunnen zijn in ons register.
 
+SA over 'derden landen' moet een verklaring worden opgesteld, ook als een overdracht naar derden landen niet plaatsvindt of niet gepland is.
+-> te ingewikkeld voor ons register. alleen een verklaring wanneer daadwerkelijk gegevens gedeeld worden met 'derden landen'
 
-
+SA ontvangers in het verleden als in de toekomst moeten worden genoemd in het register
+-> blockchain
 
 
 (sub e)
+
+SA ontvangers in derde landen en internationale organisaties zijn geen categorieën en moeten daarom in detail gespecificieerd worden.
+
+SA art. 49.6 moet in het achterhoofd gehouden worden bij het aanwijzen van een verantwoordelijke.
+-> te specifiek voor ons register?
 
 BLIn voorkomend geval, doorgiften van persoonsgegevens aan een derde land of een internationale organisatie, met inbegrip van de vermelding van dat derde land of die internationale organisatie en, in geval van de in artikel 49.1, lid 2, tweede alinea, bedoelde doorgiften, de documenten inzake de passende waarborgen; en dit ten aanzien van elk geïdentificeerd doeleinde (art. 30.1. e) van de AVG); o "Derde land" betekent een land dat geen lid is van de Europese Unie en de Europese Economische Ruimte (EER)20 ;
 	Beschreven bepalingen zijn te specifiek voor ons privacy register.
@@ -103,15 +111,25 @@ BLIn voorkomend geval, doorgiften van persoonsgegevens aan een derde land of een
 
 
 
+
+
 Tot wanneer? (sub f)
 
 BLDit informatie-element komt tegemoet aan het principe volgens hetwelk de gegevens niet mogen worden bewaard in een vorm die het mogelijk maakt de betrokkenen te identificeren en niet langer worden bewaard dan noodzakelijk is voor de doeleinden waarvoor zij worden verwerkt. Onder bewaartermijn moet niet noodzakelijk worden begrepen een termijn in dagen, maanden, jaren, of anders gezegd een kwantitatieve beoordeling. De bewaartermijn kan ook betrekking hebben op parameters zoals de tijd die nodig is om het concreet nagestreefd doeleinde te verwezenlijken of om eventueel de daarmee gepaard gaand geschillen te beheren, de uitdoving van een verjaringstermijn, een wettelijke archiveringstermijn na beëindiging van de verwerking.
+
+SA een algemene referentie naar bewaartermijn voorwaarden is niet voldoende, precieze informatie is nodig. 
+
 	Bewaartermijn moet worden gemotiveerd door gebruiker ogv noodzakelijkheid.
 
 
 Hoe (worden de gegevens beveiligd)? (sub g)
 
-BLArt. 32.1 -> ik zie nog niet goed op welke manier dit gefaciliteerd kan worden. maatwerk.
+SA Er mag geen verwerking plaatsvinden voordat aan dit vereiste is voldaan. Daarom moet worden aangenomen dat een concrete omschrijving van de technische en organisatorische maatregelen niet in de lijn der verwachtingen ligt. het gaat erom dat de verplichte onderdelen van de omschrijving makkelijk te begrijpen zijn.
+
+SA referenties in het register naar bestaande documenten en beveiligingsconcepten (Standard Data Protection Model) zou voldoende moeten zijn, zonder dat deze als geheel zijn opgenomen in het register.
+
+-> enkel verwijzen in ons register?
+-> uploaden van bestanden mogelijk maken?
 
 
 
