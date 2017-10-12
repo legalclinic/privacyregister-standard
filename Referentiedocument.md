@@ -1,3 +1,6 @@
+
+
+
 # Referentiedocument
 
 Ten behoeve van de juridische inventarisatie wordt op dit moment gewerkt aan een referentiedocument. Daarin zal het volgende zijn opgenomen:
@@ -33,9 +36,10 @@ Ten behoeve van de juridische inventarisatie wordt op dit moment gewerkt aan een
 2. Artikel 30 AVG
 	- Ratio
 		- In artikel 5 van de AVG is een aantal algemene beginselen van behoorlijke gegevensverwerking opgesomd. Artikel 30 dient in het licht van deze beginselen gelezen te worden.
-			1. Met de brede registerplicht wordt beoogd de transparantie omtrent de verwerking van persoonsgegevens te vergroten.
-			2. Verantwoordingsplicht
-			3. Basis overige compliance eisen.
+		- Met de brede registerplicht wordt beoogd:
+			1. De transparantie omtrent de verwerking van persoonsgegevens te vergroten;
+			2. De verantwoordingsplicht van organisaties in te vullen; en
+			3. Als basis te dienen voor overige compliance eisen.
 
 	- Begrippenkader
 		- **Persoonsgegeven**
@@ -63,20 +67,22 @@ Ten behoeve van de juridische inventarisatie wordt op dit moment gewerkt aan een
 
 				- *een natuurlijke persoon of rechtspersoon, een overheidsinstantie, een dienst of een ander orgaan die/dat ten behoeve van de verwerkingsverantwoordelijke persoonsgegevens verwerkt* 
 
-3. Welke gegevens moet het register bevatten?
+3. Welke gegevens moet het register bevatten volgens art. 30 AVG?
 	1. Ingevuld door verwerkingsverantwoordelijke.
 		- Lid 1 van artikel 30 AVG bepaalt dat het register opgesteld door een verwerkingsverantwoordelijke de volgende gegevens moet bevatten:
 
 			- a) Naam en contactgegevens van de verwerkingsverantwoordelijke
 
 				- Welke gegevens:
-					- Naam
-					- Adres
-					- Telefoon
-					- E-mail
-					- KVK-nummer (?)
+					- Naam van de entiteit
+					- Vestigings- en/of kantooradres, eventueel inclusief KVK-nummer
+					- Manier van contact:
+						- Telefoon
+						- Post
+						- E-mail
+						- Overig
 
-				- Wanneer van toepassing ook de gegevens van de vertegenwoordiger en van de functionaris van gegevensbescherming
+				- Wanneer van toepassing, ook de gegevens van de vertegenwoordiger en van de functionaris van gegevensbescherming
 
 			- b) de verwerkingsdoeleinden
 
@@ -111,6 +117,7 @@ Ten behoeve van de juridische inventarisatie wordt op dit moment gewerkt aan een
 
 			- d) Indien mogelijk, een algemene beschrijving van de technische en organisatorische beveiligingsmaatregelen als bedoeld in artikel 32 lid 1.
 
+		
 4. De vorm van het register (lid 3)
 	- Het verwerkingsregister moet in schriftelijke vorm, waaronder elektronische vorm, worden opgesteld
 
@@ -119,13 +126,42 @@ Ten behoeve van de juridische inventarisatie wordt op dit moment gewerkt aan een
 5. Toepassingsgebied
 	- In beginsel zijn alle ondernemingen en organisaties verplicht om op grond van lid 1 of lid 2 een register met verwerkingen bij te houden. De in lid 5 opgenomen uitzonderingsbepaling bepaalt dat deze verplichting niet bestaat wanneer een organisatie of onderneming **minder dan 250 personen** in dienst heeft. Dergelijke organisaties en ondernemingen zijn in de volgende gevallen echter toch verplicht een register bij te houden:
 		- Wanneer de verwerking een risico inhoudt voor de rechten en vrijheden van de betrokkenen;
-		- Wanneer de verwerking niet-incidenteel is, of
+		- **Wanneer de verwerking niet-incidenteel is**, of
 		- Wanneer de verwerking bijzondere categorieën van persoonsgegevens of persoonsgegevens in verband met strafrechtelijk veroordelingen en strafbare feiten betreft.
+
+
+6. Overige registratieverplichtingen uit de AVG
+	- 7.1 
+	- 13.1
+	- 13.2
+	- 14f
+	- 28
+
+## Positie van het project
+[Beschrijving van de praktische positie van het project; wat gaan we ontwikkelen?]
+
+* Wanneer (toepassingskader)?
+* Waarom (strategie/ratio)?
+* Wat (welke gegevens minimaal, welke maximaal)?
+* Hoe (in welke vorm documenteren)?
+
 
 ## Mindmap
 
 
 ## Use cases
+
+[Voorbeeld van een uitwerking met onze positie toegepast]
+
+| Verplichtingen verantwoordelijke  | Klanten voorbeeld | Personeel voorbeeld |
+| ------------- | ------------- | ------------- |
+| Naam en contactgegevens van de verwerkingsverantwoordelijke  |  |  |
+| Verwerkingsdoeleinden  |  |  |
+|   |  |  |
+|   |  |  |
+|   |  |  |
+|   |  |  |
+|   |  |  |
 
 ## Bronnen
 - [VERORDENING (EU) 2016/679](https://autoriteitpersoonsgegevens.nl/sites/default/files/atoms/files/verordening_2016_-_679_definitief.pdf)
