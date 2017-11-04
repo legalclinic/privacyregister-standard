@@ -117,6 +117,10 @@ Ten behoeve van de juridische inventarisatie wordt op dit moment gewerkt aan een
 					- Het vermogen om op permanente basis de vertrouwelijkheid, integriteit, beschikbaarheid en veerkracht van de verwerkingssystemen en -diensten te garanderen
 					- Het vermogen om bij een fysiek of technisch incident de beschikbaarheid van en de toegang tot de persoonsgegevens tijdig te herstellen
 					- Een procedure voor het op gezette tijdstippen testen, beoordelen en evalueren van de doeltreffendheid van de technische en organisatorische maatregelen ter beveiliging van de verwerking.
+					
+					**Er mag geen verwerking plaatsvinden voordat aan dit vereiste is voldaan. Daarom moet worden aangenomen dat een concrete omschrijving van de technische en organisatorische maatregelen niet in de lijn der verwachtingen ligt. het gaat erom dat de verplichte onderdelen van de omschrijving makkelijk te begrijpen zijn. Wat betekent dit? bovenstaande wettelijke vereisten moeten worden omschreven door de gebruiker, evt aangevuld met referenties in het register naar bestaande beveiligingsdocumenten/concepten**
+					
+					
 	2. Ingevuld door verwerker
 		- Lid 2 van artikel 30 AVG bepaalt dat het register opgesteld door een verwerker de volgende gegevens moet bevatten:
 
