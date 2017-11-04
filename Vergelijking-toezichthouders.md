@@ -1,5 +1,5 @@
-BL -> belgische toezichthouder
-SA -> saksen-anhalt
+>BL -> belgische toezichthouder
+>SA -> saksen-anhalt
 
 # algemene opmerkingen
 
@@ -50,7 +50,7 @@ Over het algemeen voorziet de AVG voor de kleine en middelgrote ondernemingen (h
 
 Het verder niet verplicht om informatie te verschaffen over het management team, maar dit is wel wenselijk omdat het zo voor de toezichthouder duidelijker is wie het verantwoordelijke persoon is.
 
-#### Waarom? (lid 1 sub b)
+### Waarom? (lid 1 sub b)
 **BL** Per verwerking moet een doeleinde worden geïdentificeerd  
 Het begrip verwerking is heel breed en omvat zoals gedefinieerd in artikel 4 (2) van de AVG een reeks bewerkingen die gaan van het verzamelen, raadplegen, verspreiden, koppelen, registreren tot de vernietigen van gegevens. Volgens de CBPL moet het Register niet de elementen vermelden als vereist onder de §§1 en 2 van artikel 30, ten aanzien van al deze bewerkingen.
 
@@ -63,7 +63,7 @@ De CBPL beveelt aan om net als in de toelichting bij de aangifte voorafgaand aan
 *Algemene doeleinden vs.  specifiekere doeleinden verbonden aan activiteitensector?*
 *onze voorkeur heeft algemene doeleinden -> die vervolgens gespecificeerd kunnen worden door de gebruiker zelf. Dit geeft in ieder geval een heldere categorisatie. Nauwkeurigheid is dan afhankelijk van degene die het invult.*
 
-#### Wat? (lid 1 sub c)
+### Wat? (lid 1 sub c)
 
 **BL** De betrokkenen zijn de geïdentificeerde of identificeerbare natuurlijke personen van wie de gegevens worden verwerkt (art. 4 (1) van de AVG). De Toelichting bij de aangifte voorafgaand aan de verwerking stelt geen lijst voor van betrokken personen omdat die informatie niet moet worden vermeld in de aangifte. Het gaat om werknemers, klanten, leveranciers, externe dienstverstrekkers maar ook minderjarigen terwijl de AVG ten aanzien van hen specifieke regels bevat (zie in het bijzonder artikel 8 van de AVG). Omdat het werd ontworpen als een accountability-instrument, kan het nuttig zijn dat het Register deze informatie bevat om de verwerkingsverantwoordelijke te waarschuwen over de invoering van de te nemen conformiteitsmaatregelen. -> met aangifte wordt hier de meldingsplicht van de wbp bedoeld.
 *Snap deze redenering niet goed.*
@@ -77,7 +77,7 @@ De CBPL beveelt aan om net als in de toelichting bij de aangifte voorafgaand aan
 bijkomend voordeel is dat dit nummer makkelijk aangehaald kan worden bij de beschrijving van de vereisten d - f.
 
 
-##### Waar? -> ontvangers (lid 1 sub d)
+### Waar? -> ontvangers (lid 1 sub d)
 
 **BL** De verplichting om een Register bij te houden is een dynamische verplichting in die zin dat de verwerkingsverantwoordelijke en de verwerker het moeten bijwerken (zie infra punt 50) door bijvoorbeeld iedere nieuwe ontvanger bij te te voegen die hij nog niet op het oog had op het ogenblik dat hij het register opmaakte (bijv.: fiscale inspectie, nieuwe handelspartner ...).
 *Mee eens dat het register dynamisch moet zijn, maar wat betekent dit voor de informatieplicht mbt de betrokkene? Dit valt buiten onze verantwoordelijkheid, maar het moet dus wel mogelijk zijn om het ‘eindproduct’ te tweaken.*
@@ -95,7 +95,7 @@ het kan echter handig zijn om een filiaal met toegang tot de gegevens aan te dui
 *blockchain*
 
 
-###### (lid 1 sub e)
+### (lid 1 sub e)
 
 **SA** ontvangers in derde landen en internationale organisaties zijn geen categorieën en moeten daarom in detail gespecificieerd worden.
 
@@ -106,7 +106,7 @@ het kan echter handig zijn om een filiaal met toegang tot de gegevens aan te dui
 *Beschreven bepalingen zijn te specifiek voor ons privacy register.
 adequaatheidsbesluiten idzv art. 45 lid 1 moeten we overwegen* 
 
-###### Tot wanneer? ( lid 1 sub f)
+### Tot wanneer? ( lid 1 sub f)
 
 **BL** Dit informatie-element komt tegemoet aan het principe volgens hetwelk de gegevens niet mogen worden bewaard in een vorm die het mogelijk maakt de betrokkenen te identificeren en niet langer worden bewaard dan noodzakelijk is voor de doeleinden waarvoor zij worden verwerkt. Onder bewaartermijn moet niet noodzakelijk worden begrepen een termijn in dagen, maanden, jaren, of anders gezegd een kwantitatieve beoordeling. De bewaartermijn kan ook betrekking hebben op parameters zoals de tijd die nodig is om het concreet nagestreefd doeleinde te verwezenlijken of om eventueel de daarmee gepaard gaand geschillen te beheren, de uitdoving van een verjaringstermijn, een wettelijke archiveringstermijn na beëindiging van de verwerking.
 
@@ -115,7 +115,7 @@ adequaatheidsbesluiten idzv art. 45 lid 1 moeten we overwegen*
 *Bewaartermijn moet worden gemotiveerd door gebruiker ogv noodzakelijkheid.*
 
 
-###### Hoe (worden de gegevens beveiligd)? (lid 1 sub g)
+### Hoe (worden de gegevens beveiligd)? (lid 1 sub g)
 
 **SA** Er mag geen verwerking plaatsvinden voordat aan dit vereiste is voldaan. Daarom moet worden aangenomen dat een concrete omschrijving van de technische en organisatorische maatregelen niet in de lijn der verwachtingen ligt. het gaat erom dat de verplichte onderdelen van de omschrijving makkelijk te begrijpen zijn.
 
