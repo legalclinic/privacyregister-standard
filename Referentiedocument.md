@@ -67,6 +67,8 @@ Ten behoeve van de juridische inventarisatie wordt op dit moment gewerkt aan een
 	1. Ingevuld door verwerkingsverantwoordelijke.
 		- Lid 1 van artikel 30 AVG bepaalt dat het register opgesteld door een verwerkingsverantwoordelijke de volgende gegevens moet bevatten:
 
+**algemene opmerking: het verwerkingsregister moet zinvol zijn. Dit betekent onder andere dat het specificeren van verwerkingsactiviteiten (art. 4 sub 2 AVG) en de rechtmatigheid van de verwerking (art. 6 AVG) belangrijk is om op te nemen in het register** 
+
 			- a) Naam en contactgegevens van de verwerkingsverantwoordelijke
 
 				- Welke gegevens:
@@ -77,12 +79,16 @@ Ten behoeve van de juridische inventarisatie wordt op dit moment gewerkt aan een
 					- KVK-nummer (?)
 
 				- Wanneer van toepassing ook de gegevens van de vertegenwoordiger en van de functionaris van gegevensbescherming
+				
+				**het is van belang dat de toezichthouder de verwerkingsverantwoordelijke makkelijk kan bereiken. het is daarom aan te raden om verschillende manieren van beschikbaarheid op te geven**
 
 			- b) de verwerkingsdoeleinden
 
 				- De verwerkingsverantwoordelijke dient per verwerking het doeleinde / de doeleinden daarvan vermelden. 
 					- Het doeleinde moet welbepaald en uitdrukkelijk omschreven zijn.
 				- Voorbeelden van verwerkingsdoeleinden?
+				
+				**Dit vraagt om een afweging. Uiteraard is het beter om per verwerkingsgeval zo specifiek mogelijk te zijn, maar dit moeilijk, zo niet onmogelijk, om in een open standaard te verwerken. Wij zijn van mening dat het belangrijk is om de meeste vormen van verwerking (zie hiervoor o.a. art. 4 (2) AVG) op te nemen in ons register en dat dit verder moet gaan dan alleen verwerkingen die uitgaan van een 'actieve handeling' van de verwerkingsverantwoordelijke. Dit is te beperkend omdat 'passief' verwerken, afhankelijk van de organisatie, van groot belang kan zijn om te moeten verantwoorden. Deze manier helpt de gebruiker ook om in te zien wat allemaal onder 'verwerken' kan worden gerekend. Daarentegen kiezen we bij de doeleinden juist voor een beperkt aantal keuzemogelijkheden (algemeen omschreven doeleinden) die door de gebruiker verder 'gedetailleerd' beschreven moeten worden (dit vraagt dus om open velden.** 
 
 			- c) een beschrijving van de categorieën van betrokkenen en van de categorieën van persoonsgegevens
 
