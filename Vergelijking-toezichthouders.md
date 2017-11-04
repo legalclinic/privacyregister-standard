@@ -1,6 +1,6 @@
-> **bronnen**<
->BL = belgische toezichthouder<
->SA = saksen-anhalt<
+> **bronnen**
+>BL = belgische toezichthouder
+>SA = saksen-anhalt
 
 # algemene opmerkingen
 
