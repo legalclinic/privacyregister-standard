@@ -168,7 +168,7 @@ Dit referentiedocument is uitgewerkt ten behoeve van de juridische inventarisati
 
 ## Mindmap
 
-// [mindmap]: insertlink  "Privacyregister mindmap"
+// [mindmap]: https://raw.githubusercontent.com/legalclinic/privacyregister-standard/master/Artikel%2030%20AVG.png  "Privacyregister mindmap"
 
 
 ## Use cases
