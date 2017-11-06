@@ -1,9 +1,6 @@
-
-
-
 # Referentiedocument
 
-Ten behoeve van de juridische inventarisatie wordt op dit moment gewerkt aan een referentiedocument. Daarin zal het volgende zijn opgenomen:
+Dit referentiedocument is uitgewerkt ten behoeve van de juridische inventarisatie van de vereisten uit artikel 30 AVG en bevat de specificaties van de open standaard. In dit document is het volgende opgenomen:
 
 1. Een uiteenzetting van het **juridisch kader** en de structuur van artikel 30 AVG, gelet op onder meer:
 	- Overwegingen bij de verordening
@@ -36,10 +33,11 @@ Ten behoeve van de juridische inventarisatie wordt op dit moment gewerkt aan een
 2. Artikel 30 AVG
 	- Ratio
 		- In artikel 5 van de AVG is een aantal algemene beginselen van behoorlijke gegevensverwerking opgesomd. Artikel 30 dient in het licht van deze beginselen gelezen te worden.
+
 		- Met de brede registerplicht wordt beoogd:
 			1. De transparantie omtrent de verwerking van persoonsgegevens te vergroten;
 			2. De verantwoordingsplicht van organisaties in te vullen; en
-			3. Als basis te dienen voor overige compliance eisen.
+			3. Als basis te dienen voor overige compliance-eisen.
 
 	- Begrippenkader
 		- **Persoonsgegeven**
@@ -67,17 +65,14 @@ Ten behoeve van de juridische inventarisatie wordt op dit moment gewerkt aan een
 
 				- *een natuurlijke persoon of rechtspersoon, een overheidsinstantie, een dienst of een ander orgaan die/dat ten behoeve van de verwerkingsverantwoordelijke persoonsgegevens verwerkt* 
 
-3. Welke gegevens moet het register bevatten volgens art. 30 AVG?
+3. Algemene opmerkingen
+	1. Het verwerkingsregister moet zinvol zijn. Dit betekent onder andere dat het specificeren van verwerkingsactiviteiten (art. 4 sub 2 AVG) en de rechtmatigheid van de verwerking (art. 6 AVG) belangrijk is om op te nemen in het register.
+	2. Het register moet compleet zijn, maar dit betekent niet dat alle informatie letterlijk in het register moet staan. Er wordt gebruik gemaakt van categoriseringen (bijv. bij betrokkenen en ontvangers) en daarom is het mogelijk om een categorie gelijk te stellen aan een nummer of een ander teken waarvan de betekenis ergens anders gedocumenteerd is. Hetzelfde geldt voor het beveiligingsbeleid (technische en organisatorische maatregelen) waarbij mag worden verwezen in het register naar een vindplaats of met het delen van informatie met 'derden landen' waarvoor een verklaring moet worden opgesteld
+	3. Het is belangrijk om de mogelijkheid te creëren voor gebruikers om documenten te kunnen uploaden (hangt samen met vorige punt). Aan de ene kant omdat gebruikers deze documenten in sommige gevallen (bijv. beveiligingsbeleid) van derden/'verwerkers' zullen ontvangen en hierdoor het gebruik van het register een stuk toegankelijker wordt (al zullen hierbij dan ook duidelijke eisen moeten worden gesteld voor de toegankelijkheid van deze documenten voor de toezichthouder of anderen geïnteresseerden). Aan de andere kant; we bieden een basic service die gericht is op het voldoen aan de registerplicht, dit moet gebruikers echter niet beletten om een stap verder te kunnen gaan.
+
+4. Welke gegevens moet het register bevatten volgens art. 30 AVG?
 	1. Ingevuld door verwerkingsverantwoordelijke.
 		- Lid 1 van artikel 30 AVG bepaalt dat het register opgesteld door een verwerkingsverantwoordelijke de volgende gegevens moet bevatten:
-
-**algemene opmerking: 
-
-1. het verwerkingsregister moet zinvol zijn. Dit betekent onder andere dat het specificeren van verwerkingsactiviteiten (art. 4 sub 2 AVG) en de rechtmatigheid van de verwerking (art. 6 AVG) belangrijk is om op te nemen in het register** 
-
-2. het register moet compleet zijn, maar dit betekent niet dat alle informatie lettelijk in het register moet staan. er wordt gebruik gemaakt van categoriseringen (bijv. bij betrokkenen en ontvangers) en daarom is het mogelijk om een categorie gelijk te stellen aan een nummer of een ander teken waarvan de betekenis ergens anders gedocumenteerd is. hetzelfde geldt voor het beveiligingsbeleid (technische en organisatorische maatregelen) waarbij mag worden verwezen in het register naar een vindplaats of met het delen van informatie met 'derden landen' waarvoor een verklaring moet worden opgesteld**
-
-3. het is belangrijk om de mogelijkheid te creëren voor gebruikers om documenten te kunnen uploaden (hangt samen met vorige punt). aan de ene kant omdat gebruikers deze documenten in sommige gevallen (bijv. beveiligingsbeleid) van derden/'verwerkers' zullen ontvangen en hierdoor het gebruik van het register een stuk toegankelijker wordt (al zullen hierbij dan ook duidelijke eisen moeten worden gesteld voor de toegankelijkheid van deze documenten voor de toezichthouder of anderen geïnteresseerden). aan de andere kant; wie bieden een basic service dat gericht is op het voldoen aan de registerplicht, dit moet gebruikers echter niet beletten om een stap verder te kunnen gaan.
 
 			- a) Naam en contactgegevens van de verwerkingsverantwoordelijke
 
@@ -92,7 +87,7 @@ Ten behoeve van de juridische inventarisatie wordt op dit moment gewerkt aan een
 
 				- Wanneer van toepassing ook de gegevens van de vertegenwoordiger en van de functionaris van gegevensbescherming
 				
-				**het is van belang dat de toezichthouder de verwerkingsverantwoordelijke makkelijk kan bereiken. het is daarom aan te raden om verschillende manieren van beschikbaarheid op te geven**
+				**Het is van belang dat de toezichthouder de verwerkingsverantwoordelijke makkelijk kan bereiken. Het is daarom aan te raden om verschillende manieren van beschikbaarheid op te geven**
 
 
 			- b) de verwerkingsdoeleinden
@@ -101,7 +96,7 @@ Ten behoeve van de juridische inventarisatie wordt op dit moment gewerkt aan een
 					- Het doeleinde moet welbepaald en uitdrukkelijk omschreven zijn.
 				- Voorbeelden van verwerkingsdoeleinden?
 				
-				**Dit vraagt om een afweging. Uiteraard is het beter om per verwerkingsgeval zo specifiek mogelijk te zijn, maar dit moeilijk, zo niet onmogelijk, om in een open standaard te verwerken. Wij zijn van mening dat het belangrijk is om de meeste vormen van verwerking (zie hiervoor o.a. art. 4 (2) AVG) op te nemen in ons register en dat dit verder moet gaan dan alleen verwerkingen die uitgaan van een 'actieve handeling' van de verwerkingsverantwoordelijke. Dit is te beperkend omdat 'passief' verwerken, afhankelijk van de organisatie, van groot belang kan zijn om te moeten verantwoorden. Deze manier helpt de gebruiker ook om in te zien wat allemaal onder 'verwerken' kan worden gerekend. Daarentegen kiezen we bij de doeleinden juist voor een beperkt aantal keuzemogelijkheden (algemeen omschreven doeleinden) die door de gebruiker verder 'gedetailleerd' beschreven moeten worden (dit vraagt dus om open velden).** 
+				**Dit vraagt om een afweging. Uiteraard is het beter om per verwerkingsgeval zo specifiek mogelijk te zijn, maar dit is moeilijk, zo niet onmogelijk, om in een open standaard te verwerken. Wij zijn van mening dat het belangrijk is om de meeste vormen van verwerking (zie hiervoor o.a. art. 4 (2) AVG) op te nemen in ons register en dat dit verder moet gaan dan alleen verwerkingen die uitgaan van een 'actieve handeling' van de verwerkingsverantwoordelijke. Dit is te beperkend omdat 'passief' verwerken, afhankelijk van de organisatie, van groot belang kan zijn om te moeten verantwoorden. Deze manier helpt de gebruiker ook om in te zien wat allemaal onder 'verwerken' kan worden gerekend. Daarentegen kiezen we bij de doeleinden juist voor een beperkt aantal keuzemogelijkheden (algemeen omschreven doeleinden) die door de gebruiker verder 'gedetailleerd' beschreven moeten worden (dit vraagt dus om open velden).** 
 
 			- c) een beschrijving van de categorieën van betrokkenen en van de categorieën van persoonsgegevens
 			
@@ -116,7 +111,7 @@ Ten behoeve van de juridische inventarisatie wordt op dit moment gewerkt aan een
 
 			- f) de (voorgenomen) bewaartermijnen en
 			
-			**Bewaartermijn moet worden gemotiveerd door gebruiker ogv noodzakelijkheid van de verwerking voor het te bereiken doel. een algemene referentie naar bewaartermijn is niet voldoende. precieze informatie is benodigd. Een dergelijke bewaartermijn is niet per se gedefinieerd in tijd**
+			**Bewaartermijn moet worden gemotiveerd door gebruiker ogv noodzakelijkheid van de verwerking voor het te bereiken doel. Een algemene referentie naar bewaartermijn is niet voldoende. precieze informatie is benodigd. Een dergelijke bewaartermijn is niet per se gedefinieerd in tijd**
 
 			- g) een algemene beschrijving van de beveiligingsmaatregelen.
 				- In artikel 32 lid 1 worden de volgende maatregelen genoemd:
@@ -125,7 +120,7 @@ Ten behoeve van de juridische inventarisatie wordt op dit moment gewerkt aan een
 					- Het vermogen om bij een fysiek of technisch incident de beschikbaarheid van en de toegang tot de persoonsgegevens tijdig te herstellen
 					- Een procedure voor het op gezette tijdstippen testen, beoordelen en evalueren van de doeltreffendheid van de technische en organisatorische maatregelen ter beveiliging van de verwerking.
 					
-					**Er mag geen verwerking plaatsvinden voordat aan dit vereiste is voldaan. Daarom moet worden aangenomen dat een concrete omschrijving van de technische en organisatorische maatregelen niet in de lijn der verwachtingen ligt. het gaat erom dat de verplichte onderdelen van de omschrijving makkelijk te begrijpen zijn. Wat betekent dit? bovenstaande wettelijke vereisten moeten worden omschreven door de gebruiker, evt aangevuld met referenties in het register naar bestaande beveiligingsdocumenten/concepten**
+					**Er mag geen verwerking plaatsvinden voordat aan dit vereiste is voldaan. Daarom moet worden aangenomen dat een concrete omschrijving van de technische en organisatorische maatregelen niet in de lijn der verwachtingen ligt. Het gaat erom dat de verplichte onderdelen van de omschrijving makkelijk te begrijpen zijn. Wat betekent dit? bovenstaande wettelijke vereisten moeten worden omschreven door de gebruiker, evt aangevuld met referenties in het register naar bestaande beveiligingsdocumenten/concepten**
 					
 					
 	2. Ingevuld door verwerker
