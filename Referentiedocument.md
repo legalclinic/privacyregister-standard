@@ -71,6 +71,14 @@ Ten behoeve van de juridische inventarisatie wordt op dit moment gewerkt aan een
 	1. Ingevuld door verwerkingsverantwoordelijke.
 		- Lid 1 van artikel 30 AVG bepaalt dat het register opgesteld door een verwerkingsverantwoordelijke de volgende gegevens moet bevatten:
 
+**algemene opmerking: 
+
+1. het verwerkingsregister moet zinvol zijn. Dit betekent onder andere dat het specificeren van verwerkingsactiviteiten (art. 4 sub 2 AVG) en de rechtmatigheid van de verwerking (art. 6 AVG) belangrijk is om op te nemen in het register** 
+
+2. het register moet compleet zijn, maar dit betekent niet dat alle informatie lettelijk in het register moet staan. er wordt gebruik gemaakt van categoriseringen (bijv. bij betrokkenen en ontvangers) en daarom is het mogelijk om een categorie gelijk te stellen aan een nummer of een ander teken waarvan de betekenis ergens anders gedocumenteerd is. hetzelfde geldt voor het beveiligingsbeleid (technische en organisatorische maatregelen) waarbij mag worden verwezen in het register naar een vindplaats of met het delen van informatie met 'derden landen' waarvoor een verklaring moet worden opgesteld**
+
+3. het is belangrijk om de mogelijkheid te creëren voor gebruikers om documenten te kunnen uploaden (hangt samen met vorige punt). aan de ene kant omdat gebruikers deze documenten in sommige gevallen (bijv. beveiligingsbeleid) van derden/'verwerkers' zullen ontvangen en hierdoor het gebruik van het register een stuk toegankelijker wordt (al zullen hierbij dan ook duidelijke eisen moeten worden gesteld voor de toegankelijkheid van deze documenten voor de toezichthouder of anderen geïnteresseerden). aan de andere kant; wie bieden een basic service dat gericht is op het voldoen aan de registerplicht, dit moet gebruikers echter niet beletten om een stap verder te kunnen gaan.
+
 			- a) Naam en contactgegevens van de verwerkingsverantwoordelijke
 
 				- Welke gegevens:
@@ -82,21 +90,33 @@ Ten behoeve van de juridische inventarisatie wordt op dit moment gewerkt aan een
 						- E-mail
 						- Overig
 
-				- Wanneer van toepassing, ook de gegevens van de vertegenwoordiger en van de functionaris van gegevensbescherming
+				- Wanneer van toepassing ook de gegevens van de vertegenwoordiger en van de functionaris van gegevensbescherming
+				
+				**het is van belang dat de toezichthouder de verwerkingsverantwoordelijke makkelijk kan bereiken. het is daarom aan te raden om verschillende manieren van beschikbaarheid op te geven**
+
 
 			- b) de verwerkingsdoeleinden
 
 				- De verwerkingsverantwoordelijke dient per verwerking het doeleinde / de doeleinden daarvan vermelden. 
 					- Het doeleinde moet welbepaald en uitdrukkelijk omschreven zijn.
 				- Voorbeelden van verwerkingsdoeleinden?
+				
+				**Dit vraagt om een afweging. Uiteraard is het beter om per verwerkingsgeval zo specifiek mogelijk te zijn, maar dit moeilijk, zo niet onmogelijk, om in een open standaard te verwerken. Wij zijn van mening dat het belangrijk is om de meeste vormen van verwerking (zie hiervoor o.a. art. 4 (2) AVG) op te nemen in ons register en dat dit verder moet gaan dan alleen verwerkingen die uitgaan van een 'actieve handeling' van de verwerkingsverantwoordelijke. Dit is te beperkend omdat 'passief' verwerken, afhankelijk van de organisatie, van groot belang kan zijn om te moeten verantwoorden. Deze manier helpt de gebruiker ook om in te zien wat allemaal onder 'verwerken' kan worden gerekend. Daarentegen kiezen we bij de doeleinden juist voor een beperkt aantal keuzemogelijkheden (algemeen omschreven doeleinden) die door de gebruiker verder 'gedetailleerd' beschreven moeten worden (dit vraagt dus om open velden).** 
 
 			- c) een beschrijving van de categorieën van betrokkenen en van de categorieën van persoonsgegevens
+			
+			** het is cruciaal om specifieke vereisten uit de AVG, zoals speciale regeling voor minderjarigen en het onderscheid tussen gewone en bijzondere persoonsgegevens, op te nemen in het register. het is immers een accountability-instrument en dit betekent dat register moet worden gezien als een vertrekpunt voor een organisatie om in overeenstemming te komen met de AVG. 
 
 			- d) de (voorgenomen) categorieën ontvangers;
+			
+			** hierbij moet bedacht worden dat een 'ontvanger' ook een deel van een bedrijf kan zijn, een bepaalde afdeling bijvoorbeeld. het is van groot belang dit onderscheid te kunnen maken in het register (waarschijnlijk moet dit mogelijk gemaakt worden adhv open velden) omdat het delen van informatie binnen (grotere) bedrijven veelal (verplicht) te maken heeft met waterscheidingen. dit hangt sterk binnen met doelbinding van de verwerking omdat het delen van persoonsgegevens met bijvoorbeeld een juridische afdeling aan andere rechtmatigheidsvereisten zal moeten voldoen dan wanneer deze gegevens met een marketingafdeling worden gedeeld. Daarom moet de term 'ontvanger' worden aangevuld met 'toegangsgerechtigden' (dezen worden niet aangeduid met naam, maar kunnen uniek bepaald worden adhv bijv. rol- of functieomschrijving.** 
 
 			- e) een vermelding van een verstrekking van persoonsgegevens aan een derde land of een internationale organisatie;
+			** zijn geen categorieën; moeten daarom specifiek omschreven worden door de gebruiker. daarom van belang om documenten te kunnen uploaden of open velden te creëren. deze verantwoordelijkheid ligt volledig bij de gebruiker om te voldoen aan de AVG, dit kan niet gestandardiseerd worden (zie bijv. art. 49 AVG). wel kunnen we overwegen om (toekomstige) adequaatheidsbesluiten op te nemen in ons register (art. 45 lid 1 AVG)**
 
 			- f) de (voorgenomen) bewaartermijnen en
+			
+			**Bewaartermijn moet worden gemotiveerd door gebruiker ogv noodzakelijkheid van de verwerking voor het te bereiken doel. een algemene referentie naar bewaartermijn is niet voldoende. precieze informatie is benodigd. Een dergelijke bewaartermijn is niet per se gedefinieerd in tijd**
 
 			- g) een algemene beschrijving van de beveiligingsmaatregelen.
 				- In artikel 32 lid 1 worden de volgende maatregelen genoemd:
@@ -104,6 +124,10 @@ Ten behoeve van de juridische inventarisatie wordt op dit moment gewerkt aan een
 					- Het vermogen om op permanente basis de vertrouwelijkheid, integriteit, beschikbaarheid en veerkracht van de verwerkingssystemen en -diensten te garanderen
 					- Het vermogen om bij een fysiek of technisch incident de beschikbaarheid van en de toegang tot de persoonsgegevens tijdig te herstellen
 					- Een procedure voor het op gezette tijdstippen testen, beoordelen en evalueren van de doeltreffendheid van de technische en organisatorische maatregelen ter beveiliging van de verwerking.
+					
+					**Er mag geen verwerking plaatsvinden voordat aan dit vereiste is voldaan. Daarom moet worden aangenomen dat een concrete omschrijving van de technische en organisatorische maatregelen niet in de lijn der verwachtingen ligt. het gaat erom dat de verplichte onderdelen van de omschrijving makkelijk te begrijpen zijn. Wat betekent dit? bovenstaande wettelijke vereisten moeten worden omschreven door de gebruiker, evt aangevuld met referenties in het register naar bestaande beveiligingsdocumenten/concepten**
+					
+					
 	2. Ingevuld door verwerker
 		- Lid 2 van artikel 30 AVG bepaalt dat het register opgesteld door een verwerker de volgende gegevens moet bevatten:
 
