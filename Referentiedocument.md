@@ -100,18 +100,19 @@ Dit referentiedocument is uitgewerkt ten behoeve van de juridische inventarisati
 
 			- c) een beschrijving van de categorieën van betrokkenen en van de categorieën van persoonsgegevens
 			
-			** het is cruciaal om specifieke vereisten uit de AVG, zoals speciale regeling voor minderjarigen en het onderscheid tussen gewone en bijzondere persoonsgegevens, op te nemen in het register. het is immers een accountability-instrument en dit betekent dat register moet worden gezien als een vertrekpunt voor een organisatie om in overeenstemming te komen met de AVG. 
+				**Het is cruciaal om specifieke vereisten uit de AVG, zoals speciale regeling voor minderjarigen en het onderscheid tussen gewone en bijzondere persoonsgegevens, op te nemen in het register. Het is immers een accountability-instrument en dit betekent dat register moet worden gezien als een vertrekpunt voor een organisatie om in overeenstemming te komen met de AVG.** 
 
 			- d) de (voorgenomen) categorieën ontvangers;
 			
-			** hierbij moet bedacht worden dat een 'ontvanger' ook een deel van een bedrijf kan zijn, een bepaalde afdeling bijvoorbeeld. het is van groot belang dit onderscheid te kunnen maken in het register (waarschijnlijk moet dit mogelijk gemaakt worden adhv open velden) omdat het delen van informatie binnen (grotere) bedrijven veelal (verplicht) te maken heeft met waterscheidingen. dit hangt sterk binnen met doelbinding van de verwerking omdat het delen van persoonsgegevens met bijvoorbeeld een juridische afdeling aan andere rechtmatigheidsvereisten zal moeten voldoen dan wanneer deze gegevens met een marketingafdeling worden gedeeld. Daarom moet de term 'ontvanger' worden aangevuld met 'toegangsgerechtigden' (dezen worden niet aangeduid met naam, maar kunnen uniek bepaald worden adhv bijv. rol- of functieomschrijving.** 
+				**Hierbij moet bedacht worden dat een 'ontvanger' ook een deel van een bedrijf kan zijn, een bepaalde afdeling bijvoorbeeld. het is van groot belang dit onderscheid te kunnen maken in het register (waarschijnlijk moet dit mogelijk gemaakt worden adhv open velden) omdat het delen van informatie binnen (grotere) bedrijven veelal (verplicht) te maken heeft met waterscheidingen. Dit hangt sterk binnen met doelbinding van de verwerking omdat het delen van persoonsgegevens met bijvoorbeeld een juridische afdeling aan andere rechtmatigheidsvereisten zal moeten voldoen dan wanneer deze gegevens met een marketingafdeling worden gedeeld. Daarom moet de term 'ontvanger' worden aangevuld met 'toegangsgerechtigden' (dezen worden niet aangeduid met naam, maar kunnen uniek bepaald worden adhv bijv. rol- of functieomschrijving.** 
 
 			- e) een vermelding van een verstrekking van persoonsgegevens aan een derde land of een internationale organisatie;
-			** zijn geen categorieën; moeten daarom specifiek omschreven worden door de gebruiker. daarom van belang om documenten te kunnen uploaden of open velden te creëren. deze verantwoordelijkheid ligt volledig bij de gebruiker om te voldoen aan de AVG, dit kan niet gestandardiseerd worden (zie bijv. art. 49 AVG). wel kunnen we overwegen om (toekomstige) adequaatheidsbesluiten op te nemen in ons register (art. 45 lid 1 AVG)**
+			
+				**Zijn geen categorieën; moeten daarom specifiek omschreven worden door de gebruiker. Het is daarom van belang om documenten te kunnen uploaden of open velden te creëren. Deze verantwoordelijkheid ligt volledig bij de gebruiker om te voldoen aan de AVG, dit kan niet gestandardiseerd worden (zie bijv. art. 49 AVG). wel kunnen we overwegen om (toekomstige) adequaatheidsbesluiten op te nemen in ons register (art. 45 lid 1 AVG)**
 
 			- f) de (voorgenomen) bewaartermijnen en
 			
-			**Bewaartermijn moet worden gemotiveerd door gebruiker ogv noodzakelijkheid van de verwerking voor het te bereiken doel. Een algemene referentie naar bewaartermijn is niet voldoende. precieze informatie is benodigd. Een dergelijke bewaartermijn is niet per se gedefinieerd in tijd**
+				**Bewaartermijn moet worden gemotiveerd door gebruiker ogv noodzakelijkheid van de verwerking voor het te bereiken doel. Een algemene referentie naar bewaartermijn is niet voldoende. precieze informatie is benodigd. Een dergelijke bewaartermijn is niet per se gedefinieerd in tijd**
 
 			- g) een algemene beschrijving van de beveiligingsmaatregelen.
 				- In artikel 32 lid 1 worden de volgende maatregelen genoemd:
@@ -120,7 +121,7 @@ Dit referentiedocument is uitgewerkt ten behoeve van de juridische inventarisati
 					- Het vermogen om bij een fysiek of technisch incident de beschikbaarheid van en de toegang tot de persoonsgegevens tijdig te herstellen
 					- Een procedure voor het op gezette tijdstippen testen, beoordelen en evalueren van de doeltreffendheid van de technische en organisatorische maatregelen ter beveiliging van de verwerking.
 					
-					**Er mag geen verwerking plaatsvinden voordat aan dit vereiste is voldaan. Daarom moet worden aangenomen dat een concrete omschrijving van de technische en organisatorische maatregelen niet in de lijn der verwachtingen ligt. Het gaat erom dat de verplichte onderdelen van de omschrijving makkelijk te begrijpen zijn. Wat betekent dit? bovenstaande wettelijke vereisten moeten worden omschreven door de gebruiker, evt aangevuld met referenties in het register naar bestaande beveiligingsdocumenten/concepten**
+				**Er mag geen verwerking plaatsvinden voordat aan dit vereiste is voldaan. Daarom moet worden aangenomen dat een concrete omschrijving van de technische en organisatorische maatregelen niet in de lijn der verwachtingen ligt. Het gaat erom dat de verplichte onderdelen van de omschrijving makkelijk te begrijpen zijn. Wat betekent dit? bovenstaande wettelijke vereisten moeten worden omschreven door de gebruiker, evt aangevuld met referenties in het register naar bestaande beveiligingsdocumenten/concepten**
 					
 					
 	2. Ingevuld door verwerker
@@ -166,6 +167,8 @@ Dit referentiedocument is uitgewerkt ten behoeve van de juridische inventarisati
 
 
 ## Mindmap
+
+// [mindmap]: insertlink  "Privacyregister mindmap"
 
 
 ## Use cases
