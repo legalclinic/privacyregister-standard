@@ -192,4 +192,6 @@ Dit referentiedocument is uitgewerkt ten behoeve van de juridische inventarisati
 - B.W. Schermer, 'Van meldplicht naar registerplicht: de registratie van verwerkingen onder de AVG', *Computerrecht* 2017/151
 - C.C.M Kroeks-de Raaij, R.J.J. Westerdijk & G.J. Zwenne 'De Algemene Verordening Gegevensbescherming', *IR* 2016/2
 - A. Engelfriet, L. Meij & P. Kager, 'De Algemene Verordening Gegevensbescherming. Artikelsgewijs commentaar', Amsterdam : Ius Mentis 2017
+- M. Krzusztofek, 'Post-Reform Personal Data Protection in the European Union. General Data Protection Regulation', Alpen aan de Rijn : Kluwer Law International 2017
+- V.W. Althing van Geusau, 'Handleiding Algemene Verordening Gegevensbescherming. Een praktische gids voor implementatie van de AVG in organisaties', Den Haag : SDU Uitgevers 2017
 - [Aanbeveling Belgische Commissie voor de bescherming van de persoonlijke levenssfeer](https://www.privacycommission.be/sites/privacycommission/files/documents/aanbeveling_06_2017_0.pdf)
