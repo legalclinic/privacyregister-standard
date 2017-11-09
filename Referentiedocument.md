@@ -189,6 +189,7 @@ Dit referentiedocument is uitgewerkt ten behoeve van de juridische inventarisati
 
 ## Bronnen
 - [VERORDENING (EU) 2016/679](https://autoriteitpersoonsgegevens.nl/sites/default/files/atoms/files/verordening_2016_-_679_definitief.pdf)
+- J. Berkvens & C. Jakimowicz, 'Tekstuitgave Privacyverordening', Den Haag : Boom Juridisch 2016
 - B.W. Schermer, 'Van meldplicht naar registerplicht: de registratie van verwerkingen onder de AVG', *Computerrecht* 2017/151
 - C.C.M Kroeks-de Raaij, R.J.J. Westerdijk & G.J. Zwenne 'De Algemene Verordening Gegevensbescherming', *IR* 2016/2
 - A. Engelfriet, L. Meij & P. Kager, 'De Algemene Verordening Gegevensbescherming. Artikelsgewijs commentaar', Amsterdam : Ius Mentis 2017
