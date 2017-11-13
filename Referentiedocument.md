@@ -121,7 +121,7 @@ Dit referentiedocument is uitgewerkt ten behoeve van de juridische inventarisati
 					- Het vermogen om bij een fysiek of technisch incident de beschikbaarheid van en de toegang tot de persoonsgegevens tijdig te herstellen
 					- Een procedure voor het op gezette tijdstippen testen, beoordelen en evalueren van de doeltreffendheid van de technische en organisatorische maatregelen ter beveiliging van de verwerking.
 					
-				**Er mag geen verwerking plaatsvinden voordat aan dit vereiste is voldaan. Daarom moet worden aangenomen dat een concrete omschrijving van de technische en organisatorische maatregelen niet in de lijn der verwachtingen ligt. Het gaat erom dat de verplichte onderdelen van de omschrijving makkelijk te begrijpen zijn. Wat betekent dit? bovenstaande wettelijke vereisten moeten worden omschreven door de gebruiker, evt aangevuld met referenties in het register naar bestaande beveiligingsdocumenten/concepten**
+				**Er mag geen verwerking plaatsvinden voordat aan dit vereiste is voldaan. Daarom moet worden aangenomen dat een concrete omschrijving van de technische en organisatorische maatregelen niet in de lijn der verwachtingen ligt. Het gaat erom dat de verplichte onderdelen van de omschrijving makkelijk te begrijpen zijn. Wat betekent dit? Bovenstaande wettelijke vereisten moeten worden omschreven door de gebruiker, evt aangevuld met referenties in het register naar bestaande beveiligingsdocumenten/concepten**
 					
 					
 	2. Ingevuld door verwerker
@@ -175,17 +175,20 @@ Dit referentiedocument is uitgewerkt ten behoeve van de juridische inventarisati
 
 ## Use cases
 
-[Voorbeeld van een uitwerking met onze positie toegepast]
+*'Bikr. heeft een app ontwikkeld die het mogelijk maakt om een huurfiets aan huis afgeleverd te krijgen. Om van deze service gebruik te maken moet de gebruiker een account aanmaken met daarin onder andere zijn/haar NAW- en betaalgegevens. Ook moet de gebruiker aangeven of hij/zij een mannen- of een vrouwenfiets wil.*
+
+*De app is een regelrechte hit. Bikr. wil daarom snel nieuw personeel aannemen om de fietsen rond te kunnen brengen. Het bedrijf plaatst een vacature en binnen no-time stromen de CV’s binnen. Om het overzicht over haar bezorgers te bewaren wil Bikr. voorts een personeelsregister aanleggen.'*
 
 | Verplichtingen verantwoordelijke  | Klanten voorbeeld | Personeel voorbeeld |
 | ------------- | ------------- | ------------- |
-| Naam en contactgegevens van de verwerkingsverantwoordelijke  |  |  |
-| Verwerkingsdoeleinden  |  |  |
-|   |  |  |
-|   |  |  |
-|   |  |  |
-|   |  |  |
-|   |  |  |
+| a) Naam en contactgegevens van de verwerkingsverantwoordelijke  | Bikr. B.V. |  |
+| b) Verwerkingsdoeleinden  |  |  |
+| c1) Categorieën betrokkenen  |  |  |
+| c2) Categorieën persoonsgegevens |  |  |
+| d) Categorieën ontvangers  |  |  |
+| e) Doorgifte aan een derde land of een internationale organisatie |  |  |
+| f) Bewaartermijn  |  |  |
+| g) Technische en organisatorische beveiligingsmaatregelen |  |  |
 
 ## Bronnen
 - [VERORDENING (EU) 2016/679](https://autoriteitpersoonsgegevens.nl/sites/default/files/atoms/files/verordening_2016_-_679_definitief.pdf)
