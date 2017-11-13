@@ -199,42 +199,95 @@ Dit referentiedocument is uitgewerkt ten behoeve van de juridische inventarisati
 	- Financiële bijzonderheden
 	- Persoonlijke kenmerken
 - **Op welke grond verwerkt u deze gegevens**
-- **U heeft aangegeven dat u bijzondere persoonsgegevens verwerkt. Op welke grond verwerkt u deze gegevens? (Artikel 9)**  
+
+| Categorieën persoonsgegevens | |
+| ------------- | ------------- |
+| | |
+| | |
+| | |
+| | |
+
+- **U heeft aangegeven dat u bijzondere persoonsgegevens verwerkt. Op welke grond verwerkt u deze gegevens?**
+- **Van welke categoriëen betrokkenen verwerkt u persoonsgegevens?**
+	- Klanten
+- **Aan welke categoriëen van ontvangers zullen de door u verwerkte persoonsgegevens verstrekt worden?**
+	- Intern
+	- Extern
+- **Is er sprake van doorgifte van de persoonsgegevens aan een derde land of internationale organisatie?**
+	- Nee
 - **Gedurende welke termijn bewaart u deze persoonsgegevens?**
+	- Zolang als nodig om de diensten van Bikr. te leveren
+- **Welke technische en organisatorische beveiligingsmaatregelen heeft u getroffen?**
+	- Technisch
+	- Organisatorisch
 - **Wilt u nog een verwerking opnemen in het register?**
 
 
 ### Use case 2 : Personeel
 #### 1. Personeelsregister
 - **Wat is de naam van de verwerkingsactiviteit die u in het register wilt opnemen?**
-	- Klantenrelatiebeheer
+	- Personeelsregister
 - **Met welk doeleinde verricht u deze verwerking?**
-	- Ten behoeve van de levering van de door Bikr. ontwikkelde diensten.
+	- De planning en opvolging van de taken, de werkbelasting en de prestaties.
 - **Welke categorieën persoonsgegevens verwerkt u?**
 	- Identificatiegegevens
 	- Financiële bijzonderheden
 	- Persoonlijke kenmerken
 - **Op welke grond verwerkt u deze gegevens**
-- **U heeft aangegeven dat u bijzondere persoonsgegevens verwerkt. Op welke grond verwerkt u deze gegevens? (Artikel 9)**  
+
+| Categorieën persoonsgegevens | |
+| ------------- | ------------- |
+| | |
+| | |
+| | |
+| | |
+
+- **Van welke categoriëen betrokkenen verwerkt u persoonsgegevens?**
+	- Werknemers
+- **Aan welke categoriëen van ontvangers zullen de door u verwerkte persoonsgegevens verstrekt worden?**
+	- Intern
+	- Extern
+- **Is er sprake van doorgifte van de persoonsgegevens aan een derde land of internationale organisatie?**
 - **Gedurende welke termijn bewaart u deze persoonsgegevens?**
+- **Welke technische en organisatorische beveiligingsmaatregelen heeft u getroffen?**
+	- Technisch
+	- Organisatorisch
 - **Wilt u nog een verwerking opnemen in het register?**
 
 #### 2. Sollicitatieprocedure
 
 - **Wat is de naam van de verwerkingsactiviteit die u in het register wilt opnemen?**
-	- Klantenrelatiebeheer
+	- Sollicitatieprocedure
 - **Met welk doeleinde verricht u deze verwerking?**
-	- Ten behoeve van de levering van de door Bikr. ontwikkelde diensten.
+	- Aannemen nieuw personeel
 - **Welke categorieën persoonsgegevens verwerkt u?**
 	- Identificatiegegevens
 	- Financiële bijzonderheden
 	- Persoonlijke kenmerken
+	- 
 - **Op welke grond verwerkt u deze gegevens**
-- **U heeft aangegeven dat u bijzondere persoonsgegevens verwerkt. Op welke grond verwerkt u deze gegevens? (Artikel 9)**  
+
+| Categorieën persoonsgegevens | |
+| ------------- | ------------- |
+| | |
+| | |
+| | |
+| | |
+
+- **U heeft aangegeven dat u bijzondere persoonsgegevens verwerkt. Op welke grond verwerkt u deze gegevens?**
+- **Van welke categoriëen betrokkenen verwerkt u persoonsgegevens?**
+	- Sollicitanten
+- **Aan welke categoriëen van ontvangers zullen de door u verwerkte persoonsgegevens verstrekt worden?**
+	- Intern
+	- Extern
+- **Is er sprake van doorgifte van de persoonsgegevens aan een derde land of internationale organisatie?**
+	- Nee
 - **Gedurende welke termijn bewaart u deze persoonsgegevens?**
+	- Twee maanden na afronding van de sollicitatieprocedure
+- **Welke technische en organisatorische beveiligingsmaatregelen heeft u getroffen?**
+	- Technisch
+	- Organisatorisch
 - **Wilt u nog een verwerking opnemen in het register?**
-
-
 
 ## Bronnen
 - [VERORDENING (EU) 2016/679](https://autoriteitpersoonsgegevens.nl/sites/default/files/atoms/files/verordening_2016_-_679_definitief.pdf)

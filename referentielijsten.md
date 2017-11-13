@@ -3,9 +3,6 @@
 Dit document bevat een aantal lijsten met antwoordindicaties ter ondersteuning bij het invullen van het register. 
 
 ## Verwerkingsdoeleinden (art 30.1(b) AVG)
-| Verwerkingsdoeleinde | Toelichting |
-| ------------- | ------------- | ------------- |
-| Anders, nl (eigen input gebruiker) | | |
 
 ## Categorieën persoonsgegevens (art 30.1(c) AVG)
 | Categorie | Toelichting | Bijzonder (art. 9.1 AVG) |
