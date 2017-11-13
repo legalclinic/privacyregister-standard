@@ -179,16 +179,62 @@ Dit referentiedocument is uitgewerkt ten behoeve van de juridische inventarisati
 
 *De app is een regelrechte hit. Bikr. wil daarom snel nieuw personeel aannemen om de fietsen rond te kunnen brengen. Het bedrijf plaatst een vacature en binnen no-time stromen de CV’s binnen. Om het overzicht over haar bezorgers te bewaren wil Bikr. voorts een personeelsregister aanleggen.'*
 
-| Verplichtingen verantwoordelijke  | Klanten voorbeeld | Personeel voorbeeld |
-| ------------- | ------------- | ------------- |
-| a) Naam en contactgegevens van de verwerkingsverantwoordelijke  | Bikr. B.V. |  |
-| b) Verwerkingsdoeleinden  |  |  |
-| c1) Categorieën betrokkenen  |  |  |
-| c2) Categorieën persoonsgegevens |  |  |
-| d) Categorieën ontvangers  |  |  |
-| e) Doorgifte aan een derde land of een internationale organisatie |  |  |
-| f) Bewaartermijn  |  |  |
-| g) Technische en organisatorische beveiligingsmaatregelen |  |  |
+### Naam en contactgegevens
+| | |
+| ------------- | ------------- |
+| **Naam:** | Bikr. B.V.|
+| **KVK-nummer:** | 123456789 |
+| **Adres:** | Fietsstraat 1 <br> 1057RM |
+| **Telefoonnummer:** | 0612345678 |
+| **E-mailadres:** | info@bikr.com |
+
+### Use case 1 : Klanten
+
+- **Wat is de naam van de verwerkingsactiviteit die u in het register wilt opnemen?**
+	- Klantenrelatiebeheer
+- **Met welk doeleinde verricht u deze verwerking?**
+	- Ten behoeve van de levering van de door Bikr. ontwikkelde diensten.
+- **Welke categorieën persoonsgegevens verwerkt u?**
+	- Identificatiegegevens
+	- Financiële bijzonderheden
+	- Persoonlijke kenmerken
+- **Op welke grond verwerkt u deze gegevens**
+- **U heeft aangegeven dat u bijzondere persoonsgegevens verwerkt. Op welke grond verwerkt u deze gegevens? (Artikel 9)**  
+- **Gedurende welke termijn bewaart u deze persoonsgegevens?**
+- **Wilt u nog een verwerking opnemen in het register?**
+
+
+### Use case 2 : Personeel
+#### 1. Personeelsregister
+- **Wat is de naam van de verwerkingsactiviteit die u in het register wilt opnemen?**
+	- Klantenrelatiebeheer
+- **Met welk doeleinde verricht u deze verwerking?**
+	- Ten behoeve van de levering van de door Bikr. ontwikkelde diensten.
+- **Welke categorieën persoonsgegevens verwerkt u?**
+	- Identificatiegegevens
+	- Financiële bijzonderheden
+	- Persoonlijke kenmerken
+- **Op welke grond verwerkt u deze gegevens**
+- **U heeft aangegeven dat u bijzondere persoonsgegevens verwerkt. Op welke grond verwerkt u deze gegevens? (Artikel 9)**  
+- **Gedurende welke termijn bewaart u deze persoonsgegevens?**
+- **Wilt u nog een verwerking opnemen in het register?**
+
+#### 2. Sollicitatieprocedure
+
+- **Wat is de naam van de verwerkingsactiviteit die u in het register wilt opnemen?**
+	- Klantenrelatiebeheer
+- **Met welk doeleinde verricht u deze verwerking?**
+	- Ten behoeve van de levering van de door Bikr. ontwikkelde diensten.
+- **Welke categorieën persoonsgegevens verwerkt u?**
+	- Identificatiegegevens
+	- Financiële bijzonderheden
+	- Persoonlijke kenmerken
+- **Op welke grond verwerkt u deze gegevens**
+- **U heeft aangegeven dat u bijzondere persoonsgegevens verwerkt. Op welke grond verwerkt u deze gegevens? (Artikel 9)**  
+- **Gedurende welke termijn bewaart u deze persoonsgegevens?**
+- **Wilt u nog een verwerking opnemen in het register?**
+
+
 
 ## Bronnen
 - [VERORDENING (EU) 2016/679](https://autoriteitpersoonsgegevens.nl/sites/default/files/atoms/files/verordening_2016_-_679_definitief.pdf)
