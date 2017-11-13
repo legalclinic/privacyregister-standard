@@ -5,21 +5,44 @@ Dit document bevat een aantal lijsten met antwoordindicaties ter ondersteuning b
 ## Categorieën persoonsgegevens (art 30.1(c) AVG)
 | Categorie | Toelichting |
 | ------------- | ------------- |
-| | |
+| Identificatiegegevens | |
+| Financiële bijzonderheden | |
+| Persoonlijke kenmerken | |
+| Fysieke gegevens | |
+| Leefgewoonten | |
+| Psychische gegevens | |
+| Samenstelling van het gezin | |
+| Vrijetijdsbesteding en interessen | |
+| Lidmaatschappen | |
+| Gerechtelijke gegevens betreffende.. | |
+| Consumptiegewoonten | |
+| Woningkenmerken | |
+| Gegevens betreffende de gezondheid | |
+| Opleiding en vorming | |
+| Beroep en betrekking | |
+| Rijksregisternummer / Identificatienummer van de sociale zekerheid | |
+| Raciale of etnische gegevens | |
+| Gegevens over het seksuele leven | |
+| Politieke opvattingen | |
+| Lidmaatschap van een vakvereniging | |
+| Filosofische of religieuze overtuigingen | |
+| Beeldopnamen | |
+| Geluidsopnamen| |
+| Genetische gegevens | |
+| Biometrische gegevens | |
+| Locatiegegevens | |
 | Anders, nl (eigen input gebruiker)  |  |
 
 ## Voorgenomen bewaartermijn (art 30.1(f) AVG)
 | Bewaartermijn | Voorbeeld | Motivatie noodzakelijkheid
 | ------------- | ------------- | ------------- |
 | Getal (eigen input gebruiker) | 6 maanden | |
-| Functioneel criterium (eigen input gebruiker) | 12 maanden na registratie | |
+| Functioneel criterium (eigen input gebruiker) | Zo lang als nodig om diensten te leveren | |
 
 
 ## Categorieën betrokkenen (art 30.1(c) AVG)
 | Categorie | Toelichting |
 | ------------- | ------------- |
-| Inhuurkrachten|  |
-| Kinderen < 16|  |
 | Klanten |  |
 | Leden van vereniging en/of stichting |  |
 | Uitzendkrachten |  |
@@ -35,8 +58,23 @@ Dit document bevat een aantal lijsten met antwoordindicaties ter ondersteuning b
 | |  |
 | Anders, nl (eigen input gebruiker) |  |
 | **Extern**|  |
-| |  |
+| De betrokkene |  |
 | Anders, nl (eigen input gebruiker)  |  |
+
+A. De geregistreerde persoon zelf
+B. Persoonlijke relaties van de geregistreerde persoon
+C. Professionele raadgevers van de geregistreerde persoon
+D. Werkgever of zakenrelaties van de geregistreerde persoon
+E. Individuen of organisaties in directe relatie met de verantwoordelijke
+F. Andere diensten of nevenondernemingen van de verantwoordelijke
+G. Andere privé-ondernemingen
+H. Overheidsdiensten
+I. Gerecht en politiediensten
+J. Sociale zekerheidsinstanties
+K. Banken en verzekeringsmaatschappijen
+L. Makelaars in persoonsgegevens of direct marketing
+Z. Andere
+
 
 ## Verwerkingsgrond
 | Wettelijke verwerkingsgrond | Vindplaats |
