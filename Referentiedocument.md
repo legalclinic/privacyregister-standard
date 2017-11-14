@@ -177,7 +177,7 @@ Dit referentiedocument is uitgewerkt ten behoeve van de juridische inventarisati
 
 *'Gijs en Frerik hebben een app ontwikkeld: Bikr. Deze app maakt het mogelijk om een huurfiets aan huis afgeleverd te krijgen. Om van deze service gebruik te maken moet de gebruiker een account aanmaken met daarin onder andere zijn/haar NAW- en betaalgegevens. Ook moet de gebruiker aangeven of hij/zij een mannen- of een vrouwenfiets wil. Tevens kan de gebruiker aangeven of hij/zij lid is van een vakvereniging. Wanneer deze vakvereniging aangesloten is bij het netwerk van Bikr. ontvangt de gebruiker 10% korting. De in de accounts opgeslagen informatie wordt verder niet met partijen gedeeld.*
 
-*De app is een regelrechte hit. Gijs en Frerik, als CEO en CFO, hebben een HR-manager aangenomen, drie programmeurs en iemand in dienst voor de catering. Bikr. wil ook snel nieuw eigen personeel aannemen om de fietsen rond te kunnen brengen. Tot op heden werd hiervoor gebruik gemaakt van uitzendkrachten. Het bedrijf plaatst een vacature en binnen no-time stromen de CV’s binnen. Om het overzicht over haar bezorgers te bewaren wil Bikr. voorts een personeelsregister aanleggen.'*
+*De app is een regelrechte hit. Gijs en Frerik, als CEO en CFO, hebben een HR-manager aangenomen, drie programmeurs en iemand in dienst voor de catering. Bikr. wil ook snel nieuw eigen personeel aannemen om de fietsen rond te kunnen brengen. Het bedrijf plaatst een vacature en binnen no-time stromen de CV’s binnen. Om het overzicht over haar bezorgers te bewaren wil Bikr. voorts een personeelsregister aanleggen.'*
 
 ### Naam en contactgegevens
 | | |
@@ -192,7 +192,7 @@ Dit referentiedocument is uitgewerkt ten behoeve van de juridische inventarisati
 
 - **Wat is de naam van de verwerkingsactiviteit die u in het register wilt opnemen?**
 	- Klantenrelatiebeheer
-- **Met welk doeleinde verricht u deze verwerking?**
+- **Voor welk doeleinde verricht u deze verwerking?**
 	- Ten behoeve van de levering van de door Bikr. ontwikkelde diensten.
 - **Welke categorieën persoonsgegevens verwerkt u?**
 	- NAW-gegevens
@@ -250,23 +250,30 @@ Dit referentiedocument is uitgewerkt ten behoeve van de juridische inventarisati
 #### 1. Personeelsregister
 - **Wat is de naam van de verwerkingsactiviteit die u in het register wilt opnemen?**
 	- Personeelsregister
-- **Met welk doeleinde verricht u deze verwerking?**
-	- Ten behoeve van de levering van de door Bikr. ontwikkelde diensten.
+- **Voor welk doeleinde verricht u deze verwerking?**
+	- Administratie van al het personeel dat in dienst is bij Bikr. dan wel werkzaam is voor Bikr.
+	- Bijhouden personeelsdossier
 - **Welke categorieën persoonsgegevens verwerkt u?**
 	- NAW-gegevens
 	- Financiële bijzonderheden
 	- Persoonlijke kenmerken
+	- Gegevens betreffende de gezondheid
 - **Op welke grond verwerkt u deze gegevens?**
 
 | Categorieën persoonsgegevens | Verwerkingsgrond |
 | ------------- | ------------- |
-| NAW-gegevens | Noodzakelijk ter uitvoering overeenkomst / Toestemming |
+| NAW-gegevens | Noodzakelijk ter uitvoering overeenkomst |
 | Financiële bijzonderheden | Noodzakelijk ter uitvoering overeenkomst |
-| Persoonlijke kenmerken | Gerechtvaardigd belang |
+| Persoonlijke kenmerken | Noodzakelijk ter uitvoering overeenkomst |
+
+- **U heeft aangegeven dat u bijzondere persoonsgegevens verwerkt. Op welke grond verwerkt u deze gegevens?**
+
+| Categorieën persoonsgegevens | Verwerkingsgrond |
+| ------------- | ------------- |
+| Gegevens betreffende de gezondheid | Noodzakelijk voor doeleinden van arbeidsgeneeskunde |
 
 - **Van welke categoriëen betrokkenen verwerkt u persoonsgegevens?**
 	- Werknemers
-	- Uitzendkrachten
 - **Aan welke categoriëen van ontvangers zullen de door u verwerkte persoonsgegevens verstrekt worden?**
 	- Intern
 
@@ -275,20 +282,21 @@ Dit referentiedocument is uitgewerkt ten behoeve van de juridische inventarisati
 | NAW-gegevens | HR-manager |
 | Financiële bijzonderheden | CFO, HR-manager |
 | Persoonlijke kenmerken | HR-manager |
+| Gegevens betreffende de gezondheid | HR-manager |
 
 - Extern
 
 | Categorieën persoonsgegevens | Categorieën ontvangers |
 | ------------- | ------------- |
-| NAW-gegevens | Salarisadministratie |
+| NAW-gegevens | Salarisadministratie, Uitzendbureau |
 | Financiële bijzonderheden | Salarisadministratie |
 | Persoonlijke kenmerken | Salarisadministratie |
+| Gegevens betreffende de gezondheid | - |
 
 - **Is er sprake van doorgifte van de persoonsgegevens aan een derde land of internationale organisatie?**
 	- Nee
 - **Gedurende welke termijn bewaart u deze persoonsgegevens?**
 	- De gegevens van werknemers worden tot 12 maanden na afloop van de laatste arbeidsovereenkomst bewaard.
-	- De gegevens van uitzendkrachten worden tot 6 maanden na 
 - **Welke technische en organisatorische beveiligingsmaatregelen heeft u getroffen?**
 	- Technisch / Organisatorisch
 			- De gegevens worden versleuteld opgeslagen.
@@ -299,45 +307,49 @@ Dit referentiedocument is uitgewerkt ten behoeve van de juridische inventarisati
 #### 2. Sollicitatieprocedure
 - **Wat is de naam van de verwerkingsactiviteit die u in het register wilt opnemen?**
 	- Sollicitatieprocedure
-- **Met welk doeleinde verricht u deze verwerking?**
-	- Teneinde nieuw personeel te werven
+- **Voor welk doeleinde verricht u deze verwerking?**
+	- Het aannemen van nieuw personeel
 - **Welke categorieën persoonsgegevens verwerkt u?**
 	- NAW-gegevens
-	- Financiële bijzonderheden
 	- Persoonlijke kenmerken
+	- Opleiding en vorming
+	- Beroep en betrekking
 - **Op welke grond verwerkt u deze gegevens?**
 
 | Categorieën persoonsgegevens | Verwerkingsgrond |
 | ------------- | ------------- |
-| NAW-gegevens | Noodzakelijk ter uitvoering overeenkomst / Toestemming |
-| Financiële bijzonderheden | Noodzakelijk ter uitvoering overeenkomst |
-| Persoonlijke kenmerken | Gerechtvaardigd belang |
+| NAW-gegevens | Toestemming |
+| Persoonlijke kenmerken | Toestemming|
+| Opleiding en vorming | Toestemming|
+| Beroep en betrekking | Toestemming|
 
 - **Van welke categoriëen betrokkenen verwerkt u persoonsgegevens?**
-	- Werknemers
-	- Uitzendkrachten
+	- Sollicitanten
 - **Aan welke categoriëen van ontvangers zullen de door u verwerkte persoonsgegevens verstrekt worden?**
 	- Intern
 
 | Categorieën persoonsgegevens | Categorieën ontvangers |
 | ------------- | ------------- |
-| NAW-gegevens | HR-manager |
-| Financiële bijzonderheden | CFO, HR-manager |
-| Persoonlijke kenmerken | HR-manager |
+| NAW-gegevens | HR-Manager, CEO, CFO |
+| Financiële bijzonderheden | HR-Manager, CEO, CFO |
+| Persoonlijke kenmerken | HR-Manager, CEO, CFO |
+| Opleiding en vorming | HR-Manager, CEO, CFO |
+| Beroep en betrekking | HR-Manager, CEO, CFO |
 
 - Extern
 
 | Categorieën persoonsgegevens | Categorieën ontvangers |
 | ------------- | ------------- |
-| NAW-gegevens | Salarisadministratie |
-| Financiële bijzonderheden | Salarisadministratie |
-| Persoonlijke kenmerken | Salarisadministratie |
+| NAW-gegevens | - |
+| Financiële bijzonderheden | - |
+| Persoonlijke kenmerken | - |
+| Opleiding en vorming | - |
+| Beroep en betrekking | - |
 
 - **Is er sprake van doorgifte van de persoonsgegevens aan een derde land of internationale organisatie?**
 	- Nee
 - **Gedurende welke termijn bewaart u deze persoonsgegevens?**
-	- De gegevens van werknemers worden tot 12 maanden na afloop van de laatste arbeidsovereenkomst bewaard.
-	- De gegevens van uitzendkrachten worden tot 6 maanden na 
+	- De gegevens van de sollicitanten, worden gelet op de sterke groei van het bedrijf en de daaruit voortvloeiende mogelijkheid tot het aannemen van nog meer personeel, gedurende een termijn van 12 maanden na afloop van de sollicitatieperiode bewaard.
 - **Welke technische en organisatorische beveiligingsmaatregelen heeft u getroffen?**
 	- Technisch / Organisatorisch
 			- De gegevens worden versleuteld opgeslagen.

@@ -78,7 +78,7 @@ Dit document bevat een aantal lijsten met antwoordindicaties ter ondersteuning b
 | Categorie | Toelichting |
 | ------------- | ------------- |
 | **Intern**|  |
-| Individuen of organisaties van de verwerkingsverantwoordelijke |  |
+| Individuen of afdelingen van de verwerkingsverantwoordelijke |  |
 | Andere instellingen of nevenondernemingen van de verwerkingsverantwoordelijke |  |
 | Andere privéondernemingen van de verwerkingsverantwoordelijke |  |
 | Anders, nl (eigen input gebruiker) |  |
