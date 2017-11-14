@@ -7,7 +7,7 @@ Dit document bevat een aantal lijsten met antwoordindicaties ter ondersteuning b
 ## Categorieën persoonsgegevens (art 30.1(c) AVG)
 | Categorie | Toelichting | Bijzonder (art. 9.1 AVG) |
 | ------------- | ------------- | ------------- |
-| Identificatiegegevens | | |
+| NAW-gegevens | | |
 | Financiële bijzonderheden | | |
 | Persoonlijke kenmerken | | |
 | Fysieke gegevens | | |
@@ -44,6 +44,18 @@ Dit document bevat een aantal lijsten met antwoordindicaties ter ondersteuning b
 | Bescherming vitale belangen betrokkene of andere natuurlijke personen  | art. 6.1 (d) AVG |
 | Taak van algemeen belang of uitoefening van het openbaar gezag  | art. 6.1 (e) AVG |
 | Gerechtvaardigde belangen van de verwerkingsverantwoordelijke of van een derde | art. 6.1 (f) AVG |
+
+### Bijzondere persoonsgegevens
+| Wettelijke verwerkingsgrond | Vindplaats |
+| ------------- | ------------- |
+| Uitdrukkelijke toestemming | art. 9.2(a) AVG |
+|  | art. 9.2(a) AVG |
+| Uitdrukkelijke toestemming | art. 9.2(a) AVG |
+| Uitdrukkelijke toestemming | art. 9.2(a) AVG |
+| Uitdrukkelijke toestemming | art. 9.2(a) AVG |
+| Uitdrukkelijke toestemming | art. 9.2(a) AVG |
+| Uitdrukkelijke toestemming | art. 9.2(a) AVG |
+| Uitdrukkelijke toestemming | art. 9.2(a) AVG |
 
 ## Voorgenomen bewaartermijn (art 30.1(f) AVG)
 | Bewaartermijn | Voorbeeld | Motivatie noodzakelijkheid

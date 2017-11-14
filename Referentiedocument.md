@@ -175,9 +175,9 @@ Dit referentiedocument is uitgewerkt ten behoeve van de juridische inventarisati
 
 ## Use cases
 
-*'Bikr. heeft een app ontwikkeld die het mogelijk maakt om een huurfiets aan huis afgeleverd te krijgen. Om van deze service gebruik te maken moet de gebruiker een account aanmaken met daarin onder andere zijn/haar NAW- en betaalgegevens. Ook moet de gebruiker aangeven of hij/zij een mannen- of een vrouwenfiets wil.*
+*'Gijs en Frerik hebben een app ontwikkeld: Bikr. Deze app maakt het mogelijk om een huurfiets aan huis afgeleverd te krijgen. Om van deze service gebruik te maken moet de gebruiker een account aanmaken met daarin onder andere zijn/haar NAW- en betaalgegevens. Ook moet de gebruiker aangeven of hij/zij een mannen- of een vrouwenfiets wil. Tevens kan de gebruiker aangeven of hij/zij lid is van een vakvereniging. Wanneer deze vakvereniging aangesloten is bij het netwerk van Bikr. ontvangt de gebruiker 10% korting. De in de accounts opgeslagen informatie wordt verder niet met partijen gedeeld.*
 
-*De app is een regelrechte hit. Bikr. wil daarom snel nieuw personeel aannemen om de fietsen rond te kunnen brengen. Het bedrijf plaatst een vacature en binnen no-time stromen de CV’s binnen. Om het overzicht over haar bezorgers te bewaren wil Bikr. voorts een personeelsregister aanleggen.'*
+*De app is een regelrechte hit. Gijs en Frerik, als CEO en CFO, hebben een HR-manager aangenomen, drie programmeurs en iemand in dienst voor de catering. Bikr. wil ook snel nieuw eigen personeel aannemen om de fietsen rond te kunnen brengen. Tot op heden werd hiervoor gebruik gemaakt van uitzendkrachten. Het bedrijf plaatst een vacature en binnen no-time stromen de CV’s binnen. Om het overzicht over haar bezorgers te bewaren wil Bikr. voorts een personeelsregister aanleggen.'*
 
 ### Naam en contactgegevens
 | | |
@@ -195,31 +195,54 @@ Dit referentiedocument is uitgewerkt ten behoeve van de juridische inventarisati
 - **Met welk doeleinde verricht u deze verwerking?**
 	- Ten behoeve van de levering van de door Bikr. ontwikkelde diensten.
 - **Welke categorieën persoonsgegevens verwerkt u?**
-	- Identificatiegegevens
+	- NAW-gegevens
 	- Financiële bijzonderheden
 	- Persoonlijke kenmerken
-- **Op welke grond verwerkt u deze gegevens**
+	- Lidmaatschap van een vakvereniging
+- **Op welke grond verwerkt u deze gegevens?**
 
-| Categorieën persoonsgegevens | |
+| Categorieën persoonsgegevens | Verwerkingsgrond |
 | ------------- | ------------- |
-| | |
-| | |
-| | |
-| | |
+| NAW-gegevens | Ondubbelzinnige toestemming |
+| Financiële bijzonderheden | Noodzakelijk ter uitvoering overeenkomst |
+| Persoonlijke kenmerken | Gerechtvaardigd belang |
 
 - **U heeft aangegeven dat u bijzondere persoonsgegevens verwerkt. Op welke grond verwerkt u deze gegevens?**
+
+| Categorieën persoonsgegevens | Verwerkingsgrond |
+| ------------- | ------------- |
+| Lidmaatschap van een vakvereniging | Uitdrukkelijke toestemming |
+
 - **Van welke categoriëen betrokkenen verwerkt u persoonsgegevens?**
 	- Klanten
 - **Aan welke categoriëen van ontvangers zullen de door u verwerkte persoonsgegevens verstrekt worden?**
 	- Intern
-	- Extern
+
+| Categorieën persoonsgegevens | Categorieën ontvangers |
+| ------------- | ------------- |
+| NAW-gegevens | Programmeurs |
+| Financiële bijzonderheden | CFO, Programmeurs |
+| Persoonlijke kenmerken | Programmeurs |
+| Lidmaatschap van een vakvereniging| Programmeurs |
+
+- Extern
+
+| Categorieën persoonsgegevens | Categorieën ontvangers |
+| ------------- | ------------- |
+| NAW-gegevens | Vakvereniging  |
+| Financiële bijzonderheden | Vakvereniging |
+| Persoonlijke kenmerken | Vakvereniging |
+| Lidmaatschap van een vakvereniging| Vakvereniging |
+
 - **Is er sprake van doorgifte van de persoonsgegevens aan een derde land of internationale organisatie?**
 	- Nee
 - **Gedurende welke termijn bewaart u deze persoonsgegevens?**
-	- Zolang als nodig om de diensten van Bikr. te leveren
+	- De gegevens worden tot twee jaar na afloop van het abonnement bewaard. Dit onder meer ten behoeve van betalingsachterstanden.
 - **Welke technische en organisatorische beveiligingsmaatregelen heeft u getroffen?**
-	- Technisch
-	- Organisatorisch
+	- Technisch / Organisatorisch
+			- De gegevens worden versleuteld opgeslagen.
+			- Upload van goedgekeurd certificeringsmechanisme(art 32.3 AVG)
+			- Aangesloten bij gedragscode (art 32.3 AVG)
 - **Wilt u nog een verwerking opnemen in het register?**
 
 
@@ -228,65 +251,98 @@ Dit referentiedocument is uitgewerkt ten behoeve van de juridische inventarisati
 - **Wat is de naam van de verwerkingsactiviteit die u in het register wilt opnemen?**
 	- Personeelsregister
 - **Met welk doeleinde verricht u deze verwerking?**
-	- De planning en opvolging van de taken, de werkbelasting en de prestaties.
+	- Ten behoeve van de levering van de door Bikr. ontwikkelde diensten.
 - **Welke categorieën persoonsgegevens verwerkt u?**
-	- Identificatiegegevens
+	- NAW-gegevens
 	- Financiële bijzonderheden
 	- Persoonlijke kenmerken
-- **Op welke grond verwerkt u deze gegevens**
+- **Op welke grond verwerkt u deze gegevens?**
 
-| Categorieën persoonsgegevens | |
+| Categorieën persoonsgegevens | Verwerkingsgrond |
 | ------------- | ------------- |
-| | |
-| | |
-| | |
-| | |
+| NAW-gegevens | Noodzakelijk ter uitvoering overeenkomst / Toestemming |
+| Financiële bijzonderheden | Noodzakelijk ter uitvoering overeenkomst |
+| Persoonlijke kenmerken | Gerechtvaardigd belang |
 
 - **Van welke categoriëen betrokkenen verwerkt u persoonsgegevens?**
 	- Werknemers
+	- Uitzendkrachten
 - **Aan welke categoriëen van ontvangers zullen de door u verwerkte persoonsgegevens verstrekt worden?**
 	- Intern
-	- Extern
-- **Is er sprake van doorgifte van de persoonsgegevens aan een derde land of internationale organisatie?**
-- **Gedurende welke termijn bewaart u deze persoonsgegevens?**
-- **Welke technische en organisatorische beveiligingsmaatregelen heeft u getroffen?**
-	- Technisch
-	- Organisatorisch
-- **Wilt u nog een verwerking opnemen in het register?**
 
-#### 2. Sollicitatieprocedure
-
-- **Wat is de naam van de verwerkingsactiviteit die u in het register wilt opnemen?**
-	- Sollicitatieprocedure
-- **Met welk doeleinde verricht u deze verwerking?**
-	- Aannemen nieuw personeel
-- **Welke categorieën persoonsgegevens verwerkt u?**
-	- Identificatiegegevens
-	- Financiële bijzonderheden
-	- Persoonlijke kenmerken
-	- 
-- **Op welke grond verwerkt u deze gegevens**
-
-| Categorieën persoonsgegevens | |
+| Categorieën persoonsgegevens | Categorieën ontvangers |
 | ------------- | ------------- |
-| | |
-| | |
-| | |
-| | |
+| NAW-gegevens | HR-manager |
+| Financiële bijzonderheden | CFO, HR-manager |
+| Persoonlijke kenmerken | HR-manager |
 
-- **U heeft aangegeven dat u bijzondere persoonsgegevens verwerkt. Op welke grond verwerkt u deze gegevens?**
-- **Van welke categoriëen betrokkenen verwerkt u persoonsgegevens?**
-	- Sollicitanten
-- **Aan welke categoriëen van ontvangers zullen de door u verwerkte persoonsgegevens verstrekt worden?**
-	- Intern
-	- Extern
+- Extern
+
+| Categorieën persoonsgegevens | Categorieën ontvangers |
+| ------------- | ------------- |
+| NAW-gegevens | Salarisadministratie |
+| Financiële bijzonderheden | Salarisadministratie |
+| Persoonlijke kenmerken | Salarisadministratie |
+
 - **Is er sprake van doorgifte van de persoonsgegevens aan een derde land of internationale organisatie?**
 	- Nee
 - **Gedurende welke termijn bewaart u deze persoonsgegevens?**
-	- Twee maanden na afronding van de sollicitatieprocedure
+	- De gegevens van werknemers worden tot 12 maanden na afloop van de laatste arbeidsovereenkomst bewaard.
+	- De gegevens van uitzendkrachten worden tot 6 maanden na 
 - **Welke technische en organisatorische beveiligingsmaatregelen heeft u getroffen?**
-	- Technisch
-	- Organisatorisch
+	- Technisch / Organisatorisch
+			- De gegevens worden versleuteld opgeslagen.
+			- Upload van goedgekeurd certificeringsmechanisme(art 32.3 AVG)
+			- Aangesloten bij gedragscode (art 32.3 AVG)
+- **Wilt u nog een verwerking opnemen in het register?**
+
+#### 2. Sollicitatieprocedure
+- **Wat is de naam van de verwerkingsactiviteit die u in het register wilt opnemen?**
+	- Sollicitatieprocedure
+- **Met welk doeleinde verricht u deze verwerking?**
+	- Teneinde nieuw personeel te werven
+- **Welke categorieën persoonsgegevens verwerkt u?**
+	- NAW-gegevens
+	- Financiële bijzonderheden
+	- Persoonlijke kenmerken
+- **Op welke grond verwerkt u deze gegevens?**
+
+| Categorieën persoonsgegevens | Verwerkingsgrond |
+| ------------- | ------------- |
+| NAW-gegevens | Noodzakelijk ter uitvoering overeenkomst / Toestemming |
+| Financiële bijzonderheden | Noodzakelijk ter uitvoering overeenkomst |
+| Persoonlijke kenmerken | Gerechtvaardigd belang |
+
+- **Van welke categoriëen betrokkenen verwerkt u persoonsgegevens?**
+	- Werknemers
+	- Uitzendkrachten
+- **Aan welke categoriëen van ontvangers zullen de door u verwerkte persoonsgegevens verstrekt worden?**
+	- Intern
+
+| Categorieën persoonsgegevens | Categorieën ontvangers |
+| ------------- | ------------- |
+| NAW-gegevens | HR-manager |
+| Financiële bijzonderheden | CFO, HR-manager |
+| Persoonlijke kenmerken | HR-manager |
+
+- Extern
+
+| Categorieën persoonsgegevens | Categorieën ontvangers |
+| ------------- | ------------- |
+| NAW-gegevens | Salarisadministratie |
+| Financiële bijzonderheden | Salarisadministratie |
+| Persoonlijke kenmerken | Salarisadministratie |
+
+- **Is er sprake van doorgifte van de persoonsgegevens aan een derde land of internationale organisatie?**
+	- Nee
+- **Gedurende welke termijn bewaart u deze persoonsgegevens?**
+	- De gegevens van werknemers worden tot 12 maanden na afloop van de laatste arbeidsovereenkomst bewaard.
+	- De gegevens van uitzendkrachten worden tot 6 maanden na 
+- **Welke technische en organisatorische beveiligingsmaatregelen heeft u getroffen?**
+	- Technisch / Organisatorisch
+			- De gegevens worden versleuteld opgeslagen.
+			- Upload van goedgekeurd certificeringsmechanisme(art 32.3 AVG)
+			- Aangesloten bij gedragscode (art 32.3 AVG)
 - **Wilt u nog een verwerking opnemen in het register?**
 
 ## Bronnen
