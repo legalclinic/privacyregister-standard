@@ -1,8 +1,8 @@
 bronnen
 
-BL = belgische toezichthouder
-
-SA = saksen-anhalt
+> BL = belgische toezichthouder
+>
+> SA = saksen-anhalt
 
 algemene opmerkingen
 
