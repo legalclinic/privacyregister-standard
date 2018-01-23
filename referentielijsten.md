@@ -1,6 +1,7 @@
 # Referentielijsten
 
 Dit document bevat een aantal lijsten met antwoordindicaties ter ondersteuning bij het invullen van het register. 
+De inhoud van deze lijsten wordt mogelijk in een later stadium aan het register toegevoegd.
 
 ## Verwerkingsdoeleinden (art 30.1(b) AVG)
 
