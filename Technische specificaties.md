@@ -1,3 +1,13 @@
+# Technische specificaties
+
+Dit document bevat een uitwerking van de technische specificaties die voortvloeien uit het referentiedocument. In dit document is het volgende opgenomen:
+
+1. Specificaties van de structuur van het register
+2. Specificaties van de (gebruikers)interface
+3. User stories
+
+
+
 ```JavaScript
 
 Organisatie = {
