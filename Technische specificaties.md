@@ -5,8 +5,27 @@ Dit document bevat een uitwerking van de technische specificaties die voortvloei
 1. Specificaties van de structuur van het register
 2. Specificaties van de (gebruikers)interface
 3. User stories
+4. To be discussed
+
+## 1. Specificaties van de structuur van het register
+
+#### Welke gegevens moet het register kunnen bevatten?
+
+1. Gegevens over de organisatie
 
 
+2. Gegevens over de verwerking
+- De naam van de verwerkingsactiviteit
+	- Voorvraag: Wanneer is sprake van een nieuwe verwerkingsactivteit?
+- Het doeleinde van de verwerkingsactiviteit
+	- 
+- De categorieën betrokkenen
+- De categorieën persoonsgegevens
+	- Algemeen <--> Bijzonder
+- De grondslag van de verwerking
+	- 
+
+#### Voorbeeldstructuur
 
 ```JavaScript
 
@@ -40,3 +59,21 @@ verwerkingsactiviteitDoorVerwerkingsverantwoordelijke = {
 			// Verwerkingsverantwoordelijken
 						// Verwerkingsactiviteiten
 ```
+
+
+## 2. Specificaties van de (gebruikers)interface
+
+#### Welke informatie moet de website bevatten?
+
+
+#### Hoe moet de gebruiker om kunnen gaan met de gegevens in het register?
+
+
+## 3. User stories
+- Als gebruiker wil ik:
+	- Verwerkingsactiviteiten kunnen groeperen en sorteren
+	- Een export kunnen maken van het register
+	- Een versie van het register kunnen importeren 
+
+## 4. To be discussed
+- Wie host het register?
