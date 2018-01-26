@@ -15,15 +15,51 @@ Dit document bevat een uitwerking van de technische specificaties die voortvloei
 
 
 2. Gegevens over de verwerking
-- De naam van de verwerkingsactiviteit
-	- Voorvraag: Wanneer is sprake van een nieuwe verwerkingsactivteit?
-- Het doeleinde van de verwerkingsactiviteit
-	- 
-- De categorieën betrokkenen
-- De categorieën persoonsgegevens
-	- Algemeen <--> Bijzonder
-- De grondslag van de verwerking
-	- 
+
+| Naam verwerkingsactiviteit |  |
+| ------------- | ------------- |
+| Voorvraag: | Wanneer is sprake van een nieuwe verwerkingsactivteit? |
+| Soort: | Open veld |
+
+| Doeleinde verwerkingsactiviteit |  |
+| ------------- | ------------- |
+| Omschrijving ||
+| Soort: | Open veld, meerdere entries mogelijk |
+
+| Categorieën betrokkenen |  |
+| ------------- | ------------- |
+| Omschrijving ||
+| Soort: | Open veld, meerdere entries mogelijk |
+
+| Categorieën persoonsgegevens |  |
+| ------------- | ------------- |
+| Omschrijving ||
+| Voorvraag: | Bijzonder en/of Algemeen |
+| Soort: | Open veld |
+
+| Verwerkingsgrondslag (algemeen) |  |
+| ------------- | ------------- |
+| Omschrijving ||
+| Soort: | Dropdown, afhankelijk |
+| Optie 1: | Toestemming betrokkene (art. 6.1 (a) AVG) |
+| Optie 2: | Noodzakelijk voor de uitvoering van een overeenkomst (art. 6.1 (b) AVG) |
+| Optie 3: | Wettelijke verplichting (art. 6.1 (c) AVG) |
+| Optie 4: | Bescherming vitale belangen betrokkene of andere natuurlijke personen (art. 6.1 (d) AVG) |
+| Optie 5: | Taak van algemeen belang of uitoefening van het openbaar gezag (art. 6.1 (e) AVG) |
+| Optie 6: | Gerechtvaardigde belangen van de verwerkingsverantwoordelijke of van een derde (art. 6.1 (f) AVG) |
+
+| Verwerkingsgrondslag (bijzonder) |  |
+| ------------- | ------------- |
+| Omschrijving ||
+| Soort: | Dropdown, afhankelijk |
+| Uitdrukkelijke toestemming | art. 9.2(a) AVG |
+
+| Categorieën ontvangers |  |
+| ------------- | ------------- |
+| Omschrijving ||
+| Soort: | Open veld, meerdere entries mogelijk |
+| Uitdrukkelijke toestemming | art. 9.2(a) AVG |
+
 
 #### Voorbeeldstructuur
 
@@ -64,6 +100,8 @@ verwerkingsactiviteitDoorVerwerkingsverantwoordelijke = {
 ## 2. Specificaties van de (gebruikers)interface
 
 #### Welke informatie moet de website bevatten?
+- Informatie over privacy register
+- Voorbeelden
 
 
 #### Hoe moet de gebruiker om kunnen gaan met de gegevens in het register?
