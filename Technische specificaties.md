@@ -28,7 +28,7 @@ This document contains the technical specifications of the Privacy Register and 
 | **Representative e-mail address** | No |  Text field |
 | **Representative phone number**    | No | Number |
 
-##### 2. Information about the processing activity
+##### 2. Information about the processing activity as a controller
 
 | Name data processing operation: |  |
 | ------------- | ------------- |
@@ -78,12 +78,12 @@ This document contains the technical specifications of the Privacy Register and 
 | Question: | What is the legal basis for processing these personal data? |
 | Description: ||
 | Sort: | Dropdown |
-| Option 1: | Consent data subject (art. 6.1 (a) AVG) |
-| Option 2: | Necessary for the performance of a contract(art. 6.1 (b) AVG) |
-| Option 3: | Necessary for compliance with a legal obligation(art. 6.1 (c) AVG) |
-| Option 4: | Necessary in order to protect the vital interests of the individual (art. 6.1 (d) AVG) |
-| Option 5: | Necessary for the performance of a task carried out in the public interest or in the excercise of official authority vested in the controller. (art. 6.1 (e) AVG) |
-| Option 6: | necessary for the purposes of the legitimate interests pursued by the controller or by a third party (art. 6.1 (f) AVG) |
+| Option 1: | Consent data subject (art. 6.1 (a) GDPR) |
+| Option 2: | Necessary for the performance of a contract(art. 6.1 (b) GDPR) |
+| Option 3: | Necessary for compliance with a legal obligation(art. 6.1 (c) GDPR) |
+| Option 4: | Necessary in order to protect the vital interests of the individual (art. 6.1 (d) GDPR) |
+| Option 5: | Necessary for the performance of a task carried out in the public interest or in the excercise of official authority vested in the controller. (art. 6.1 (e) GDPR) |
+| Option 6: | necessary for the purposes of the legitimate interests pursued by the controller or by a third party (art. 6.1 (f) GDPR) |
 
 | Categories of internal recipients: |  |
 | ------------- | ------------- |
@@ -102,23 +102,39 @@ This document contains the technical specifications of the Privacy Register and 
 | Transfers of personal data to a third country or an international organisation: |  |
 | ------------- | ------------- |
 | Mandatory: | No |
-| Question: | Are the data transferred to third countries or international organisations? |
-| Description: ||
+| Question: | Are the data transferred to international organisations or countries outside of the European Economic Area (EU countries plus Norway, Iceland and Liechtenstein)?|
+| Description: | Identify which countries and/or international organisations |
 | Sort: | Text field / multiple entries |
 
 | Retention Period: |  |
 | ------------- | ------------- |
 | Mandatory: | Yes |
-| Question: | |
-| Description: | Article 32 |
-| Sort: | Open veld, meerdere entries mogelijk |
+| Question: | What is the retention period of this personal data? |
+| Description: | Motivate the necessity of the retention period by quantitative means. If this is not possible, specify the qualitative criteria for determining the retention period. |
+| Sort: | Text field |
 
 | Security Measures: |  |
 | ------------- | ------------- |
 | Mandatory: | Yes |
-| Question: | Which technical and organizational security measures have been implemented? |
+| Question: | Which technical and organizational security measures have been implemented for these personal data? |
+| Description: | Art. 32: Taking into account the state of the art, the costs of implementation and the nature, scope, context and purposes of processing as well as the risk of varying likelihood and severity for the rights and freedoms of natural persons, the controller and the processor shall implement appropriate technical and organisational measures |
+| Sort: | Text field, multiple entries |
+
+##### 3. Information about the processing activity as a processor
+
+| Transfers of personal data to a third country or an international organisation: |  |
+| ------------- | ------------- |
+| Mandatory: | No |
+| Question: | Are the data transferred to international organisations or countries outside of the European Economic Area (EU countries plus Norway, Iceland and Liechtenstein)?|
+| Description: | Identify which countries and/or international organisations |
+| Sort: | Text field / multiple entries |
+
+| Security Measures: |  |
+| ------------- | ------------- |
+| Mandatory: | Yes |
+| Question: | Which technical and organizational security measures have been implemented for these personal data? |
 | Description: | Article 32 |
-| Sort: | Open veld, meerdere entries mogelijk |
+| Sort: | Text field, multiple entries |
 
 #### Example structure 
 
@@ -130,7 +146,7 @@ This document contains the technical specifications of the Privacy Register and 
 	processingActivity = [{processingActivity1}, {processingActivity2}, etc..]
 }
 
-processingActivity = {
+processingActivityController = {
 	purpose : [option1, option2, etc..],
 	Categories of data subjects : [option1, option2, etc..],
 	Categories of personal data : [option1, option2, etc..],
@@ -140,6 +156,11 @@ processingActivity = {
 	Retention period : [option1, option2, etc..],
 	Security measures : [option1, option2, etc..],
 }
+
+processingActivityProcessor = {
+
+}
+
 ```
 
 
@@ -170,13 +191,7 @@ processingActivity = {
 - Publish to blockchain
 - Export version of record?
 
-
-
-
-
-
 #### How should a user be able to interact with the website
-
 
 ## 3. User stories
 - As a user I want to be
@@ -190,7 +205,6 @@ processingActivity = {
 ## 4. To be discussed
 - Wie host het register?
 - Security?
-- Vertaling?
 - Accounts?
 - Privacy statement (user consent)
 - Service na ontwikkeling?
