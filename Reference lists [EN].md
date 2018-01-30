@@ -1,6 +1,6 @@
 # Reference lists
 
-This document contains lists with indications which might be implemented in a future version of the Privacy Register.
+This document contains lists with suggested answers that might be implemented in a future version of the Privacy Register.
 
 ## Purposes of the processing activity (art 30.1(b) GDPR)
 

@@ -11,9 +11,9 @@ This document holds the technical specifications of the Privacy Register and is 
 
 #### Which information should the record contain?
 
-##### 1. Information about the controller/processor
+##### 1. Information about the entity
 
-| Controller:| Mandatory: | Sort: |
+| entity:| Mandatory: | Sort: |
 | ------------------- | ------------------------- | ------------------------- |
 | **Name:**           | Yes | Text field |
 | **Contact person:**   | No| Text field |
@@ -30,7 +30,7 @@ This document holds the technical specifications of the Privacy Register and is 
 
 ##### 2. Information about a processing activity as a controller
 
-| Name data processing operation: |  |
+| Name data processing activity: |  |
 | ------------- | ------------- |
 | Mandatory: | Yes |
 | Question: | What is the name of the processing activity you want to add to the record? |
@@ -170,18 +170,30 @@ This document holds the technical specifications of the Privacy Register and is 
 
 ```JavaScript
 {
-	Org. : {
-		<Information about Controller>,
+	Entity : {
+		Name : string,
+		contactPerson : string,
+		chamberOfCommerceNo: number,
+		Address : {street : string, postalCode, },
+		phoneNumber : number,
+		emailAddress : string,
+		dpoName : string,
+		dpoEmailAddress : string, 
+		dpoPhoneNumber : number,
+		representativeName : string,
+		representativeEmailAddress : string,
+		representativePhoneNumber : number,
 	},
-	processingActivity = [{processingActivity1}, {processingActivity2}, etc..]
+	processingActivityAsController = [{processingActivityAsController1}, {processingActivityAsController2}, etc..],
+	processingActivityAsProcessor = [{processingActivityAsProcessor1}, {processingActivityAsProcessor2}, etc..]
 }
 
-processingActivityController = {
-	name : text,
-	department : [option1, option2, etc..],
-	purpose : [option1, option2, etc..],
-	categoriesOfDataSubjects : [option1, option2, etc..],
-	categoriesOfPersonalData : [option1, option2, etc..],
+processingActivityAsController = {
+	namePA : string,
+	departmentPA : [option1, option2, etc..],
+	purposePA : [option1, option2, etc..],
+	categoriesOfDataSubjects : [category1, option2, etc..],
+	categoriesOfPersonalData : [{categoryPD1}, {categoryPD2}, etc..],
 	categoriesOfInternalRecipients : [option1, option2, etc..],
 	categoriesOfExternalRecipients : [option1, option2, etc..],
 	transfersToThirdCountriesInternationalOrganisations : [option1, option2, etc..],
@@ -189,11 +201,17 @@ processingActivityController = {
 	securityMeasures : [option1, option2, etc..]
 }
 
-processingActivityProcessor = {
+processingActivityAsProcessor = {
 	categoryOfProcessing: text,
-	controller
+	controller : [{controller1}, {controller2}, etc..]
 	transfersToThirdCountriesInternationalOrganisations : [option1, option2, etc..],
 	securityMeasures : [option1, option2, etc..]
+}
+
+categoryPD : {
+	name: string,
+	special: boolean,
+	legalGround : string
 }
 
 ```
