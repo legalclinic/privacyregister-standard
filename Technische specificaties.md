@@ -1,13 +1,13 @@
 # Technical specifications
 
-This document contains the technical specifications of the Privacy Register and is based on the referentiedocument(NL)
+This document holds the technical specifications of the Privacy Register and is based on the referentiedocument(NL). It contains the following:
 
-1. Structure specifications
-2. User interface specifications
+1. Specifications of the structure of the register
+2. Specifications of the user interface
 3. User stories
-4. To be discussed
+4. Points which are still to be discussed
 
-## 1. Structure specifications
+## 1. Specifications of the structure of the register
 
 #### Which information should the record contain?
 
@@ -164,9 +164,9 @@ processingActivityProcessor = {
 ```
 
 
-## 2. User interface specifications
+## 2. Specifications of the user interface
 
-#### Which information should the website contain?
+#### Which information / what functionalities should the website contain?
 
 ##### 1. Landing page
 - Links to information about the project
@@ -194,17 +194,16 @@ processingActivityProcessor = {
 #### How should a user be able to interact with the website
 
 ## 3. User stories
-- As a user I want to be
-	- Guided with adding 
-	- 
-	- See a sorted and grouped overview of processing activities
-	- Export a version of the record to excel
+- As a user I want to be able to
+	- Be guided in the process of filling in a new entry in the register 
+	- See a sorted and grouped overview of the processing activities in the record
+	- Make manual adjustments to the register
+	- Export a version of the record in different formats
 	- Import a version of the record
-	- 
 
-## 4. To be discussed
-- Wie host het register?
-- Security?
-- Accounts?
+## 4. Discussion points
+- Should users be able to make accounts and store their records?
+	- Whose servers?
+- What security measures should be taken?
 - Privacy statement (user consent)
-- Service na ontwikkeling?
+- What services are provided after the go-live of the project
