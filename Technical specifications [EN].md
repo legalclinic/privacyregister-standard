@@ -166,54 +166,192 @@ This document holds the technical specifications of the Privacy Register and is 
 | Description: | Article 32 |
 | Sort: | Text field, multiple entries |
 
-#### Example structure 
+#### Example JSON Schema Definition
 
 ```JavaScript
+// Basic
+
 {
-	Entity : {
-		Name : string,
-		contactPerson : string,
-		chamberOfCommerceNo: number,
-		Address : {street : string, postalCode, },
-		phoneNumber : number,
-		emailAddress : string,
-		dpoName : string,
-		dpoEmailAddress : string, 
-		dpoPhoneNumber : number,
-		representativeName : string,
-		representativeEmailAddress : string,
-		representativePhoneNumber : number,
-	},
-	processingActivityAsController = [{processingActivityAsController1}, {processingActivityAsController2}, etc..],
-	processingActivityAsProcessor = [{processingActivityAsProcessor1}, {processingActivityAsProcessor2}, etc..]
+	Organisation : {
+		processingActivitiesAsController = [{processingActivityAsController1}, {processingActivityAsController2}, etc..],
+		processingActivitiesAsProcessor = [{processingActivityAsProcessor1}, {processingActivityAsProcessor2}, etc..]
+	}
+
 }
 
-processingActivityAsController = {
-	namePA : string,
-	departmentPA : [option1, option2, etc..],
-	purposePA : [option1, option2, etc..],
-	categoriesOfDataSubjects : [category1, option2, etc..],
-	categoriesOfPersonalData : [{categoryPD1}, {categoryPD2}, etc..],
-	categoriesOfInternalRecipients : [option1, option2, etc..],
-	categoriesOfExternalRecipients : [option1, option2, etc..],
-	transfersToThirdCountriesInternationalOrganisations : [option1, option2, etc..],
-	retentionPeriod : [option1, option2, etc..],
-	securityMeasures : [option1, option2, etc..]
+// Detailed
+
+{
+    "title": "Organisation",
+    "description": "Information about the Organisation that fills in the Register",
+    "type": "object",
+    "properties": {
+        "id": {
+            "description": "The unique identifier for a Organisation",
+            "type": "integer"
+        },
+        "name": {
+            "description": "Name of the Organisation",
+            "type": "string"
+        },
+        "contactPerson": {
+            "type": "string"
+        },
+           "chamberOfCommerceNo": {
+            "type": "integer"
+        },
+           "postalAddress": {
+            "type": "object",
+            "properties": {
+            	"streetAddress" : {"type" : "string"},
+            	"postalCode" : {"type" : "string"}
+            }
+        },
+        "phoneNumber": {
+            "type": "integer"
+        },
+        "emailAddress": {
+            "type": "string"
+        },
+        "dpoName": {
+            "type": "string"
+        },
+         "dpoEmailAddress": {
+            "type": "string"
+        },
+         "dpoPhoneNumber": {
+            "type": "string"
+        },
+         "representativeName": {
+            "type": "string"
+        },
+         "representativeEmailAddress": {
+            "type": "string"
+        },
+         "representativePhoneNumber": {
+            "type": "string"
+        },
+        "processingActivitiesAsController" : {
+        	"type": "array",
+        	"processingActivityAsController" : {
+        		"type": "object"
+        	}
+        },
+        "processingActivitiesAsProcessor" : {
+        	"type": "array",
+        	"processingActivityAsProcessor" : {
+        		"type": "object"
+        	}
+        },
+    },
+    "required": ["id", "name", "contactPerson", "address", "phoneNumber","emailAddress"]
 }
 
-processingActivityAsProcessor = {
-	categoryOfProcessing: text,
-	controller : [{controller1}, {controller2}, etc..]
-	transfersToThirdCountriesInternationalOrganisations : [option1, option2, etc..],
-	securityMeasures : [option1, option2, etc..]
+{
+	"title" : processingActivityAsController,
+	"type" : "object",
+	"properties": {
+        "id": {
+            "description": "The unique identifier for a processing activity",
+            "type": "integer"
+        },
+        "namePA": {
+            "type": "string"
+        },
+        "departmentPA": {
+            "type" : "array"
+            "items" : {
+            	"type" : "string"
+            }
+        },
+        "purposePA": {
+            "type" : "array"
+            "items" : {
+            	"type" : "string"
+            }
+        },
+         "categoriesOfDataSubjects": {
+            "type" : "array"
+            "items" : {
+            	"type" : "string"
+            }
+        },
+          "categoriesOfPersonalData": {
+            "type" : "array"
+            "items" : {
+            	"type" : "object",
+            	"properties" : {
+            		"name" : {"type" : "string"},
+            		"special" : {"type" : "boolean"},
+            		"legalGround" : {"type" : "string"}
+            	}
+            }
+        },
+          "categoriesOfInternalRecipients": {
+            "type" : "array"
+            "items" : {
+            	"type" : "string"
+            }
+        },
+          "categoriesOfExternalRecipients": {
+            "type" : "array"
+            "items" : {
+            	"type" : "string"
+            }
+        },
+        "transfersToThirdCountriesInternationalOrganisations": {
+            "type" : "array"
+            "items" : {
+            	"type" : "string"
+            }
+        },
+		"retentionPeriod": {
+            "type" : "array"
+            "items" : {
+            	"type" : "string"
+            }
+        },
+		"securityMeasures": {
+            "type" : "array"
+            "items" : {
+            	"type" : "string"
+            }
+        },
+
 }
 
-categoryPD : {
-	name: string,
-	special: boolean,
-	legalGround : string
+{
+	"title" : processingActivityAsProcesor,
+	"type" : "object",
+	"properties": {
+        "id": {
+            "description": "The unique identifier for a processing activity",
+            "type": "integer"
+        },
+        "categoryOfProcessing": {
+            "type": "string"
+        },
+		"controller": {
+            "type": "object",
+            "properties": {
+            	"" : {"type" : "string"},
+            	"" : {"type" : "string"}
+            }
+        },
+		"transfersToThirdCountriesInternationalOrganisations": {
+            "type" : "array"
+            "items" : {
+            	"type" : "string"
+            }
+        },
+		"securityMeasures": {
+            "type" : "array"
+            "items" : {
+            	"type" : "string"
+            }
+        },
+	}
 }
-
 ```
 
 ## 2. Specifications of the user interface
@@ -222,6 +360,10 @@ categoryPD : {
 
 ##### 1. Landing page
 - Links to information about the project
+
+> Records of processing activities (art. 30 GDPR)
+> > Each controller [...] shall maintain a record of processing activities under its responsibility.
+
 
 - Links to examples
 
