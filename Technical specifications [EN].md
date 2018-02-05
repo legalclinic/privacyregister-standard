@@ -11,9 +11,9 @@ This document holds the technical specifications of the Privacy Register and is 
 
 #### Which information should the record contain?
 
-##### 1. Information about the entity
+##### 1. Information about the Organisation
 
-| entity:| Mandatory: | Sort: |
+| Organisation:| Mandatory: | Sort: |
 | ------------------- | ------------------------- | ------------------------- |
 | **Name:**           | Yes | Text field |
 | **Contact person:**   | No| Text field |
@@ -28,7 +28,7 @@ This document holds the technical specifications of the Privacy Register and is 
 | **Representative e-mail address** | No |  Text field |
 | **Representative phone number**    | No | Number |
 
-##### 2. Information about a processing activity as a controller
+##### 2. Processing activity as a controller
 
 | Name data processing activity: |  |
 | ------------- | ------------- |
@@ -128,7 +128,7 @@ This document holds the technical specifications of the Privacy Register and is 
 | Description: | Art. 32: Taking into account the state of the art, the costs of implementation and the nature, scope, context and purposes of processing as well as the risk of varying likelihood and severity for the rights and freedoms of natural persons, the controller and the processor shall implement appropriate technical and organisational measures |
 | Sort: | Text field, multiple entries |
 
-##### 3. Information about a processing activity as a processor
+##### 3. Processing activity as a processor
 
 | Categories of processing: |  |
 | ------------- | ------------- |
@@ -364,7 +364,6 @@ This document holds the technical specifications of the Privacy Register and is 
 > Records of processing activities (art. 30 GDPR)
 > > Each controller [...] shall maintain a record of processing activities under its responsibility.
 
-
 - Links to examples
 
 - Login for existing users
@@ -400,8 +399,9 @@ This document holds the technical specifications of the Privacy Register and is 
 
 ## 4. Discussion points
 - Should users be able to make accounts and store their records?
-	- Whose servers?
+	- On whose servers?
 - What security measures should be taken?
 - Privacy statement (user consent)
-- What services are provided after the go-live of the project
+- What services are provided after the go-live of the project?
 - How much information should we give in the description?
+- Modularity?
