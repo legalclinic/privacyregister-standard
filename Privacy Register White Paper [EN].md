@@ -60,15 +60,15 @@ This White Paper contains an assessment of the legal requirements that follow fr
 			- *a natural or legal person, public authority, agency or other body which processes personal data on behalf of the controller;*
 
 3. General remarks
-	1. **Useful.** The record of processing activities should be useful. As a consequence each processing activity should be sufficiently specified and contain the legal ground on which the processing activity is based.
+	1. **Useful.** The record of processing activities should be useful. As a consequence each record of processing activity should be sufficiently specified and contain the legal ground on which the processing activity is based.
 	2. **Complete.** The record of processing activities should be complete. This does however not mean that the register should literally contain all information. By making use of categorizations (e.g. for data subjects and recipients) it is possible to equate a category with a number or other character whose meaning is documented elsewhere. This also applies to the security policy (technical and organizational measure) for which a reference to a location or document could suffice.
 
-4. Which information must a record of processing activities contain?
+4. Which information should a record of processing activities contain?
 	1. Filled in by a controller
 
 		- Paragraph 1 of article 30 GDPR states that a record of processing activities maintained by a controller must contain the following information:
 
-			- a) Name and contact details of the controller;
+			- a) the name and contact details of the controller;
 				- Controller name
 				- Controller address
 				- Contact details
@@ -78,19 +78,33 @@ This White Paper contains an assessment of the legal requirements that follow fr
 					- Other
 				- Where applicable, the contact details of a representative and the data protection officer
 
-				**The controller should be easily reachable by the supervisory authority. It is therefore recommended to submit multiple contact options**
+				*The controller should be easily reachable by the supervisory authority. It is therefore recommended to submit multiple contact options*
 
-			- b) Purpose of the processing activity;
+			- b) the purposes of the processing activity;
 
-			- c) The categories of data subjects and the categories of personal data; 
+				*The controller must describe the purpose(s) of each processing activity*
+				*The description should be specific and explicit*
 
-			- d)
 
-			- e)
 
-			- f)
+			- c) a description of the categories of data subjects and of the categories of personal data;
 
-			- g)
+				*It is crucial to include specific requirements that follow from the GDPR, such as the distinction between ordinary and special personal data and special regulations for minors. After all, the GDPR is an accountability instrument and the record of processing activities must be seen as a starting point for an organisation to comply with the GDPR.* 
+
+			- d) the categories of recipients to whom the personal data have been or will be disclosed;
+
+				*It must be kept in mind that a recipient could also be a part of an organisation (e.g. a department).*
+
+			- e) where applicable, transfers of personal data to a third country or an international organisation, including the identification of that third country or international organisation;
+
+			- f) where possible, the envisaged time limits for erasure of the different categories of data;
+
+				*The retention period of the personal data must be motivated in connection with the necessity of that processing activity in order to achieve the purposes mentioned.*
+				*A general reference to a retention period does not suffice. Precise information is required.*
+				*The retention period can be specified by quantitative means as well as by qualitative criteria.*
+
+			- g) where possible, a general description of the technical and organisational security 
+			measures referred to in Article 32(1).
 	2. Filled in by a processor
 
 	- Paragraph 2 of article 30 GDPR defines that a record of processing activities maintained by a processor must contain the following information:
@@ -106,23 +120,28 @@ This White Paper contains an assessment of the legal requirements that follow fr
 
 5. Form of the register
 - According to paragraph 3 the record of processing activities must be in writing, including in electronic form.
+
 6. Applicability
 	- In principle, all organisations are obliged to keep a register of processing operations pursuant to paragraph 1 or 2. The exemption clause in paragraph 5 states that this obligation does not exist when an organisation employs fewer than 250 persons. However, such organisations are still required to maintain a register under the following circumstances:
      - When the processing involves a risk to the rights and freedoms of the data subjects;
      - **When the processing is non-incidental**; or
      - When processing concerns special categories of personal data or personal data in connection with criminal convictions and criminal offenses.
-7. 
+
+7. Relation to other recording activities under the GDPR
 
 ## Position
 
-[Beschrijving van de praktische positie van het project; wat ontwikkelen we?]
+This white paper creates an open standard that could be used to fulfil the obligations that arise from article 30 GDPR.
 
-- Wanneer (toepassingskader)?
-- Waarom (strategie/ratio)?
-- Wat (welke gegevens minimaal, welke maximaal)?
-- Hoe (in welke vorm documenteren)?
+1. When
+	- Applicability
 
-Reference to technical specifications
+2. Why
+	- Strategy/Ratio
+3. What
+	- Which information?
+4. How
+	- Technical specifications
 
 ## Resources
 
