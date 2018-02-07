@@ -62,7 +62,7 @@ This document holds the technical specifications of the Privacy Register and is 
 | ------------- | ------------- |
 | Mandatory: | Yes |
 | Question 1: | What categories of personal data are being collected for this processing activity? |
-| Description: | Personal data: Any information relating to an identified or identifiable natural person ('data subject'); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person. |
+| Description: | Personal data: *Any information relating to an identified or identifiable natural person ('data subject'); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person.* |
 | Sort: | Text field / multiple entries |
 | Question 2: | Specify per category whether those personal data can be qualified as special. |
 | Description: | Special personal data: Data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, and the processing of genetic data, biometric data for the purpose of uniquely identifying a natural person, data concerning health or data concerning a natural person's sex life or sexual orientation. |
@@ -405,3 +405,10 @@ This document holds the technical specifications of the Privacy Register and is 
 - What services are provided after the go-live of the project?
 - How much information should we give in the description?
 - Modularity?
+
+## To Do
+
+## Tech stack
+- Handsontables
+- HTML5 Local browser storage
+    - https://laverna.cc/ 
