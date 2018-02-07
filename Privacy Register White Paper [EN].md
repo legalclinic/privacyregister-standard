@@ -68,15 +68,21 @@ This White Paper contains an assessment of the legal requirements that follow fr
 
 		- Paragraph 1 of article 30 GDPR states that a record of processing activities maintained by a controller must contain the following information:
 
-			- a) Name and contact details of the controller
+			- a) Name and contact details of the controller;
+				- Controller name
+				- Controller address
+				- Contact details
+					- Phone
+					- Post
+					- E-mail
+					- Other
+				- Where applicable, the contact details of a representative and the data protection officer
 
-			- Which details :
+				**The controller should be easily reachable by the supervisory authority. It is therefore recommended to submit multiple contact options**
 
+			- b) Purpose of the processing activity;
 
-
-			- b) Purpose of the processing activity:
-
-			- c) The categories of data subjects and the categories of personal data: 
+			- c) The categories of data subjects and the categories of personal data; 
 
 			- d)
 
@@ -87,7 +93,16 @@ This White Paper contains an assessment of the legal requirements that follow fr
 			- g)
 	2. Filled in by a processor
 
-	- Paragraph 2 of article 30 GDPR defines that a record of processing activities maintaind by a processor must contain the following information:
+	- Paragraph 2 of article 30 GDPR defines that a record of processing activities maintained by a processor must contain the following information:
+
+		- a) name and contact details of the processor and of each controller on behalf of which the processor is acting;
+			- If applicable, the contact details of the representative and the data protection officer of the controller
+
+		- b) categories of processing carried out on behalf of each controller;
+
+		- c) where applicable, transfers of personal data to a third country or an international organisation, including the identification of that third country or international organisation
+
+		- d) where possible, a general description of the technical and organisational security measures referred to in Article 32(1).
 
 5. Form of the register
 - According to paragraph 3 the record of processing activities must be in writing, including in electronic form.
