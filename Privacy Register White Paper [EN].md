@@ -1,6 +1,6 @@
 # Privacy Register White Paper
 
-Article 30 of the General Data Protection Regulation (GDPR) brings into existence an obligation for controllers and processors to maintain a record of processing activities. The aim of this White Paper is to create an open standard that could be used to fulfil this obligation. 
+Article 30 of the General Data Protection Regulation (GDPR) brings into existence an obligation for controllers and processors to maintain a record of processing activities. The Privacy Register is an open standard that could be used to fulfil this obligation. 
 
 This White Paper contains an assessment of the legal requirements that follow from article 30 GDPR. It serves as a basis for the specifications of the open standard and contains the following:
 
@@ -60,24 +60,54 @@ This White Paper contains an assessment of the legal requirements that follow fr
 			- *a natural or legal person, public authority, agency or other body which processes personal data on behalf of the controller;*
 
 3. General remarks
-	1. **Useful.** The record of processing activities must be useful. This means that processing activities must be sufficiently specified and 
-	2. **Complete.** The record of processing activities must be complete. This does not mean 
+	1. **Useful.** The record of processing activities should be useful. As a consequence each processing activity should be sufficiently specified and contain the legal ground on which the processing activity is based.
+	2. **Complete.** The record of processing activities should be complete. This does however not mean that the register should literally contain all information. By making use of categorizations (e.g. for data subjects and recipients) it is possible to equate a category with a number or other character whose meaning is documented elsewhere. This also applies to the security policy (technical and organizational measure) for which a reference to a location or document could suffice.
+
+4. Which information must a record of processing activities contain?
+	1. Filled in by a controller
+
+		- Paragraph 1 of article 30 GDPR states that a record of processing activities maintained by a controller must contain the following information:
+
+			- a) Name and contact details of the controller
+
+			- Which details :
 
 
-4. Which information should a record of processing activities contain?
-	1. Controller
 
-	- Paragraph 1 of article 30 GDPR defines that a record of processing activities maintaind by a controller must contain the following information:
+			- b) Purpose of the processing activity:
 
+			- c) The categories of data subjects and the categories of personal data: 
 
+			- d)
 
-	2. Processor
+			- e)
 
-	- Paragraph 2 of article 30 GDPR defines that a record of processing activities maintaind by a controller must contain the following information:
+			- f)
 
-5. Which information should a record of processing activities contain?
+			- g)
+	2. Filled in by a processor
+
+	- Paragraph 2 of article 30 GDPR defines that a record of processing activities maintaind by a processor must contain the following information:
+
+5. Form of the register
+- According to paragraph 3 the record of processing activities must be in writing, including in electronic form.
+6. Applicability
+	- In principle, all organisations are obliged to keep a register of processing operations pursuant to paragraph 1 or 2. The exemption clause in paragraph 5 states that this obligation does not exist when an organisation employs fewer than 250 persons. However, such organisations are still required to maintain a register under the following circumstances:
+     - When the processing involves a risk to the rights and freedoms of the data subjects;
+     - **When the processing is non-incidental**; or
+     - When processing concerns special categories of personal data or personal data in connection with criminal convictions and criminal offenses.
+7. 
 
 ## Position
+
+[Beschrijving van de praktische positie van het project; wat ontwikkelen we?]
+
+- Wanneer (toepassingskader)?
+- Waarom (strategie/ratio)?
+- Wat (welke gegevens minimaal, welke maximaal)?
+- Hoe (in welke vorm documenteren)?
+
+Reference to technical specifications
 
 ## Resources
 
