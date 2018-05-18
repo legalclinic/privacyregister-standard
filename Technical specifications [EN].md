@@ -68,7 +68,7 @@ This document holds the technical specifications of the open standard and is bas
 | Description:                 | Special personal data: *Data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, or trade union membership, and the processing of genetic data, biometric data for the purpose of uniquely identifying a natural person, data concerning health or data concerning a natural person's sex life or sexual orientation.* |
 | Sort:                        | Boolean                                  |
 
-| Legal BASES for processing: |                                          |
+| Legal bases for processing: |                                          |
 | --------------------------- | ---------------------------------------- |
 | Mandatory:                  | Yes                                      |
 | Question:                   | What is the legal basis for processing these personal data? |
@@ -130,6 +130,13 @@ This document holds the technical specifications of the open standard and is bas
 | Mandatory:         | Yes                                      |
 | Question:          | Which technical and organizational security measures have been implemented for this processing activity? |
 | Description:       | Art. 32: Taking into account the state of the art, the costs of implementation and the nature, scope, context and purposes of processing as well as the risk of varying likelihood and severity for the rights and freedoms of natural persons, the controller and the processor shall implement appropriate technical and organisational measures |
+| Sort:              | Text field, multiple entries             |
+
+| Source: |                                          |
+| ------------------ | ---------------------------------------- |
+| Mandatory:         | Dependent                                      |
+| Question:          | Where does the personal data orginate from? |
+| Description:       | Art. 14 and right of access require any available information to their source, where the personal data are not collected from the data subject  |
 | Sort:              | Text field, multiple entries             |
 
 ##### 3. Processing activity as a processor
